@@ -1,10 +1,8 @@
 ---
-title: Quant Finance Resources
+title: Acing the Quant Interview
 date: "2022-03-25"
-description: Some resources for Quantitative Finance.
+description: A quick guide to how to get ready for quant interviews.
 ---
-
-## Interviewing
 
 How to land a job in quant finance (focused primarily on trading).
 
@@ -17,10 +15,6 @@ Make sure to optimize your resume towards a focus on math and data science. If y
 #### Timeline
 
 Most quant job listings come out in Late July/August, though 2-3 firms tend to start earlier (Late March/April). I would high reccomend applying starting from Late March/April to these earlier firms, and then applying as soon as possible to other firms in the summer. The earlier you apply, the better chance you have of getting an offer. In general, make sure to apply as soon as the listing is open. If you have a deadline, make sure to let firms know via application or email, and they'll most likely give you an early interview even if their applications haven't opened yet.
-
-### Leveraging an Offer
-
-If you recieve an offer, make sure to let everybody you're interviewing with know. The same goes with final rounds for any well-known company. This makes it seem as if you're in high-demand, and will be seen as a positive when firms are making their final hiring decision.
 
 ### Preparation
 
@@ -54,7 +48,11 @@ Often referred to as "The Green Book", this is the holy grail of interview prep 
 
 Make sure to negotiate! Most firms will include or increase their sign-on bonus if you negotiate or if you let them know you have a competing offer or are in the final rounds with another company.
 
-## List of Firms
+#### Leveraging an Offer
+
+If you recieve an offer, make sure to let everybody you're interviewing with know. The same goes with final rounds for any well-known company. This makes it seem as if you're in high-demand, and will be seen as a positive when firms are making their final hiring decision.
+
+### List of Firms
 
 <mark>**Marked**</mark> = Popular firms for undergraduates
 
