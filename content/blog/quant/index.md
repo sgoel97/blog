@@ -1,0 +1,97 @@
+---
+title: Quant Finance Resources
+date: "2022-03-25"
+description: Some resources for Quantitative Finance.
+---
+
+## List of Firms
+
+Bold = Popular firms for trading for undergraduates
+
+- 3Red Partners
+- **Akuna Capital**
+- Alameda
+- Allston Trading
+- Ansatz Capital
+- Aquatic Capital
+- ART Advisors
+- **Belvedere Trading**
+- Blackedge Capital
+- Bluefin Companies
+- Chicago Trading Company
+- **Citadel Securities**
+- Cognitive Capital
+- **Cubist Systems (Point72)**
+- Cutler Group
+- Da Vinci Derivatives
+- **DE Shaw**
+- Domeyard
+- **DRW**
+- DV Trading
+- Eagle Seven
+- Eclipse Trading
+- Edgehog
+- Edgestream Partners
+- Emergent Trading
+- Engineers Gate
+- Epoch Trading Group
+- Ergoteles
+- Final
+- **Five Rings Capital**
+- **Flow Trading**
+- G-Research
+- Gelber Group
+- Geneva Trading
+- Gingko LLC
+- Group One Trading
+- GTS
+- HAP
+- HAP Capital
+- Hard Eight Trading
+- HC Tech
+- HC Technologies
+- Headlands Technologies
+- **Hudson River Trading**
+- **IMC**
+- Istra
+- **Jane Street Capital**
+- **Jump Trading**
+- Liquid Capital Group
+- Mako Trading
+- Maven Securities
+- Millenium Advisors
+- Nine Mile Financial
+- Old Mission Capital
+- **Optiver**
+- PDT Partners
+- Peak6
+- Quadrature Capital
+- Quantlab
+- Qube Research & Technologies
+- Radix Trading
+- Renaissance Technologies
+- RSJ Securities
+- Seven Eight Capital
+- Sierra Pacific Securities
+- Spark Capital Management
+- **Susquehanna International Group (SIG)**
+- Teza Technologies
+- TGS
+- Tibra
+- Tower Research Capital
+- Tradebot Systems
+- TransMarket Group
+- Tsuru Capital
+- **Two Sigma**
+- Valkyrie Trading
+- Vatic Labs
+- Velar Technologies
+- Virtu Financial
+- VivCourt Trading
+- Volant Trading
+- Voleon
+- WH Trading
+- Wintermute
+- Wolverine Trading
+- XR Trading
+- XTX Markets

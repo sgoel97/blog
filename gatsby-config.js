@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Samarth's Blog`,
+    title: `Irreverent Expectations`,
     author: {
       name: `Samarth Goel`,
-      summary: `, a student at UC Berkeley studying Computer Science and Business.`,
+      summary: `, a builder, problem-solver, and amateur gymnast.`,
     },
     description: `Samarth's Blog/`,
     siteUrl: `https://blog.samarthgoel.com/`,

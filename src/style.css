@@ -82,7 +82,7 @@ body {
   font-size: var(--fontSize-1);
   color: var(--color-text);
   background-image: url("./images/bg.png");
-  background-size: cover;
+  background-size: 100% auto;
 }
 
 footer {

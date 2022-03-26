@@ -1,9 +1,8 @@
 ---
 title: Some Lessons!
 date: "2022-01-18T13:23:37.121Z"
+description: "Some life lessons"
 ---
-
-# Some Lessons
 
 Here I'll keep track of important life lessons I've learnt.
 
