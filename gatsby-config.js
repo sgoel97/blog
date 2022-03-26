@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Irreverent Expectations`,
+    title: `Samarth's Blog`,
     author: {
-      name: `Samarth Goel`,
+      name: `Samarth`,
       summary: `, a builder, problem-solver, and amateur gymnast.`,
     },
     description: `Samarth's Blog/`,
