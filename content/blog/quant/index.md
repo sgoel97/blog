@@ -48,7 +48,7 @@ For data science, you will most likeley be asked on data science process and tec
 
 - A Practical Guide to Quantitative Finance Interviews" by Xinfeng Zhou
 
-Often referred to as "The Green Book", this is the holy grail of interview prep for Quantitative Finance Interviews. Focus on Chapters 1, 3, and 4 for trading interviews. Free PDF versions of the book can easily be found online.
+Often referred to as "The Green Book", this is the holy grail of interview prep for Quantitative Finance Interviews. Focus on Chapters 1, 2, 4, and 5 for trading interviews. Free PDF versions of the book can easily be found online.
 
 ### After the Offer
 
@@ -57,6 +57,7 @@ Make sure to negotiate! Most firms will include or increase their sign-on bonus 
 ## List of Firms
 
 <mark>**Marked**</mark> = Popular firms for undergraduates
+
 **Bold** = Smaller firms that also take undergraduates
 
 - 3Red Partners
