@@ -45,6 +45,8 @@ const Bio = () => {
       {author?.name && (
         <p>
           Written by <strong>{author.name}</strong>{author?.summary || null}
+          <br />
+          <a href="https://www.notion.so/Samarth-Goel-3dffd695ef42483ca5fa13338eeb1190" target="_blank">samarthgoel.com</a>
         </p>
       )}
     </div>
