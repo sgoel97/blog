@@ -14,7 +14,7 @@ Make sure to optimize your resume towards a focus on math and data science. If y
 
 #### Timeline
 
-Most quant job listings come out in Late July/August, though 2-3 firms tend to start earlier (Late March/April). I would high reccomend applying starting from Late March/April to these earlier firms, and then applying as soon as possible to other firms in the summer. The earlier you apply, the better chance you have of getting an offer. In general, make sure to apply as soon as the listing is open. If you have a deadline, make sure to let firms know via application or email, and they'll most likely give you an early interview even if their applications haven't opened yet.
+Most quant job listings come out in Late July/August, though 2-3 firms tend to start earlier (Late March/April). I would highly recommend applying starting from Late March/April to these earlier firms and then applying as soon as possible to other firms in the summer. The earlier you apply, the better chance you have of getting an offer. In general, make sure to apply as soon as the listing is open. If you have a deadline, make sure to let firms know via application or email, and they'll most likely give you an early interview even if their applications haven't opened yet.
 
 ### Preparation
 
@@ -22,11 +22,11 @@ Most quant job listings come out in Late July/August, though 2-3 firms tend to s
 
 - Probability
 
-This one is by far the most important topic to understand. A lot of trading interviews won't even test your programming skills, and only your understanding of math and probability. Thus its **paramount** to understand probability inside and out. Make sure you take at least one upper-division probability course. I would reccomend Data 140 or EECS 126 for this. EECS 126 covers more, but Data 140 goes more in depth and is more related to the type of stuff you'll see in interviews, so I'd reccomend that over EECS 126. If you take Data 140, I'd also reccomend Stat 150 to cover stochastic processes, which sometimes appear in interviews (but not very often).
+This one is by far the most important topic to understand. A lot of trading interviews won't even test your programming skills and only your understanding of math and probability. Thus it is **paramount** to understand probability inside and out. Make sure you take at least one upper-division probability course. I would recommend [Data 140](http://prob140.org/) or [EECS 126](https://inst.eecs.berkeley.edu/~ee126/sp22/) for this. EECS 126 covers more, but Data 140 goes more in-depth and is more related to the type of stuff you'll see in interviews, so I'd recommend that over EECS 126. If you take Data 140, I'd also recommend [Stat 150](https://www.stat.berkeley.edu/~bensonau/f21.150/index.html) to cover stochastic processes, which sometimes appear in interviews (but not very often).
 
 - Programming and Algorithms
 
-Make sure to have CS 170 level knowledge of programming and algorithms. This typically requires CS 61A, CS 61B, CS 70, and of course CS 170.
+Make sure to have [CS 170](https://cs170.org/) level knowledge of programming and algorithms. This typically requires [CS 61A](https://cs61a.org/), [CS 61B](https://inst.eecs.berkeley.edu/~cs61b/sp22/), [CS 70](https://www.eecs70.org/), and of course CS 170.
 
 - Linear Algebra and Calculus
 
@@ -34,9 +34,9 @@ Not super important, but if you have time, make sure to brush up on basic Linear
 
 - Machine Learning and Data Science (Quantitative Research Roles)
 
-This is moreso for Quantitative Research roles, but knowing linear regression inside and out is paramount for interviews. Good classes for this are Data 100 for basic numpy/pandas, Stat 151A for linear modeling, and CS 189 for general understanding of prediction techniques. None of these classes cover linear regression in depth enough, however, so you'll need to engage in independent study as well.
+This is more so for Quantitative Research roles, but knowing linear regression inside and out is paramount for interviews. Good classes for this are Data 100 for basic numpy/pandas, Stat 151A for linear modeling, and CS 189 for general understanding of prediction techniques. None of these classes cover linear regression in-depth enough, however, so you'll need to engage in independent study as well.
 
-For data science, you will most likeley be asked on data science process and techniques. For example, they will ask you to predict something, and you'll have to determine what data you need, how to collect it, how to process it, and finally how to use it to actually predict what you need to find. As far as I'm aware there's no class which covers this explicitly, and is moreso built with real experience working with data and machine learning.
+For data science, you will most likely be asked about the data science process and techniques. For example, they will ask you to predict something, and you'll have to determine what data you need, how to collect it, how to process it, and finally how to use it to predict what you need to find. As far as I'm aware no class covers this explicitly and is more so built with real experience working with data and machine learning.
 
 #### Books
 
@@ -50,13 +50,13 @@ Make sure to negotiate! Most firms will include or increase their sign-on bonus 
 
 #### Leveraging an Offer
 
-If you recieve an offer, make sure to let everybody you're interviewing with know. The same goes with final rounds for any well-known company. This makes it seem as if you're in high-demand, and will be seen as a positive when firms are making their final hiring decision.
+If you receive an offer, make sure to let everybody you're interviewing with know. The same goes with final rounds for any well-known company. This makes it seem as if you're in high demand, and will be seen as a positive when firms are making their final hiring decision.
 
 ### List of Firms
 
-<mark>**Marked**</mark> = Popular firms for undergraduates
+<mark>**Marked**</mark> = Popular firms for undergraduates.
 
-**Bold** = Smaller firms that also take undergraduates
+**Bold** = Smaller firms that also take undergraduates.
 
 - 3Red Partners
 - <mark>**Akuna Capital**</mark>
