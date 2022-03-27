@@ -6,7 +6,13 @@ description: Some resources for Crypto Stuff.
 
 ## Ethereum
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jxLkbJozKbY/0.jpg)](https://www.youtube.com/watch?v=jxLkbJozKbY)
+- https://www.youtube.com/watch?v=jxLkbJozKbY
+
+Really useful primer on ethereum and the basics of blockchain technology
+
+- https://weth.io/
+
+Good explanation for why WETH (Wrapped Eth) Exists
 
 ## Impermenant Loss
 
