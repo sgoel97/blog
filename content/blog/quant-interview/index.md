@@ -34,7 +34,7 @@ Not super important, but if you have time, make sure to brush up on basic Linear
 
 - Machine Learning and Data Science (Quantitative Research Roles)
 
-This is more so for Quantitative Research roles, but knowing linear regression inside and out is paramount for interviews. Good classes for this are Data 100 for basic numpy/pandas, Stat 151A for linear modeling, and CS 189 for general understanding of prediction techniques. None of these classes cover linear regression in-depth enough, however, so you'll need to engage in independent study as well.
+This is more so for Quantitative Research roles, but knowing linear regression inside and out is paramount for interviews. Good classes for this are Data 100 for basic numpy/pandas, Stat 151A for linear modeling, and [CS 189](https://people.eecs.berkeley.edu/~jrs/189/) for general understanding of prediction techniques. None of these classes cover linear regression in-depth enough, however, so you'll need to engage in independent study as well.
 
 For data science, you will most likely be asked about the data science process and techniques. For example, they will ask you to predict something, and you'll have to determine what data you need, how to collect it, how to process it, and finally how to use it to predict what you need to find. As far as I'm aware no class covers this explicitly and is more so built with real experience working with data and machine learning.
 
