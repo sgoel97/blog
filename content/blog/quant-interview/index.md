@@ -161,3 +161,7 @@ If you have an offer, make sure to join the [Traders/Quants/Devs Discord](https:
 - **Wolverine Trading**
 - **XR Trading**
 - XTX Markets
+
+## Aknowledgements
+
+Shoutout to [Traders at Berkeley](https://traders.berkeley.edu/) for being an amazing knowledge source and community!
