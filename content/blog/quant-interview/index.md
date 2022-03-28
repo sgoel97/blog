@@ -56,6 +56,10 @@ For data science, you will most likely be asked about the data science process a
 
 Often referred to as "The Green Book", this is the holy grail of interview prep for Quantitative Finance Interviews. Focus on Chapters 1, 2, 4, and 5 for trading interviews. Free PDF versions of the book can easily be found online.
 
+- Quant Job Interview Questions And Answers by Mark Joshi
+
+This book is also useful when preparing for quant interviews. Like the Green Book, free pdf versions of this book can be found online easily. Make sure to go through the Green Book first, however, and this book afterwards as a supplemental piece.
+
 ### After the Offer
 
 Make sure to negotiate! Most firms will include or increase their sign-on bonus if you negotiate or if you let them know you have a competing offer or are in the final rounds with another company.
@@ -164,4 +168,4 @@ If you have an offer, make sure to join the [Traders/Quants/Devs Discord](https:
 
 ## Aknowledgements
 
-Shoutout to [Traders at Berkeley](https://traders.berkeley.edu/) for being an amazing knowledge source and community!
+Shoutout to [Traders at Berkeley](https://traders.berkeley.edu/) for being an amazing knowledge source and community.
