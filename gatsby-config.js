@@ -14,7 +14,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-image`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
         trackingIds: ['G-5SGLMBJEZ7'],
         pluginConfig: {
