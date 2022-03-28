@@ -8,9 +8,13 @@ const Layout = ({ location, title, children }) => {
 
   if (isRootPath) {
     header = (
-      <h1 className="main-heading">
-        <Link to="/">{title}</Link>
-      </h1>
+      <>
+        <h1 className="main-heading">
+          <Link to="/">{title}</Link>
+        </h1>
+        <p style={{ marginTop: '1.25rem' }}>The most random nonsene you'll ever read (except for the technical stuff).</p>
+      </>
+
     )
   } else {
     header = (
@@ -27,7 +31,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <a href="https://www.gatsbyjs.com" target="_blank" rel="noreferrer">Gatsby</a>
       </footer>
     </div>
   )

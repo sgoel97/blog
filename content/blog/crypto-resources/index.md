@@ -23,3 +23,9 @@ This article is good for understanding the basics of the math behind impermenant
 - https://medium.com/auditless/how-to-calculate-impermanent-loss-full-derivation-803e8b2497b7
 
 Derives the impermenant loss formula.
+
+## Personal Reading List
+
+- [Where Crypto Meets The Metaverse](https://metaversed.net/into-the-void)
+
+- [Taking undercollateralized loans for fun and for profit](https://samczsun.com/taking-undercollateralized-loans-for-fun-and-for-profit/)
