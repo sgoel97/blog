@@ -21,11 +21,3 @@ Think about a leaf. Think about all the crazy little cells inside the leaf worki
 Awe is what I think makes me the happiest and truly makes me realize the stupidity of life. You can work yourself to the bone, retire, and get replaced within 2 days. The company won't care about you, your co-workers probably forgot you (unless they want to use you to get a referral), but at the end of the day, the tree is still there, with its millions of tiny cells still working, still producing oxygen, still growing.
 
 [More Detail Coming Eventually]
-
-Want something even more stupid?
-
-Stress - why? Stress is a net negative. if you could deal with the things you're stressed about without getting stressed, you'd probably do them better. Thus, why stress? What if you just didn't. And because its your mind, you can simply tell it not to with enough practice? Sounds incredibly stupid, but then again, that's the beuty of the human mind. Its yours, and it'll do whatever you tell it to.
-
-[More Detail Coming Eventually]
-
-Will I ever get to adding more detail to the sections above? I'm going to be perfectly honest, probably not but also potentially. Feel free to talk to me directly if you want to talk about this stuff in more depth, but only if you want to meet in-person, because, quite honestly, I find texting incredibly bothersome.
