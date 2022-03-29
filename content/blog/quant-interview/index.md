@@ -74,29 +74,55 @@ If you have an offer, make sure to join the [Traders/Quants/Devs Discord](https:
 
 ### List of Firms
 
-<mark>**Marked**</mark> = Popular firms for undergraduates.
+Disclaimer: Categorization of firms is entirely based on my personal opinion and knowledge.
 
-**Bold** = Smaller firms that also take undergraduates.
+#### Popular firms for undergraduates
+
+- Akuna Capital
+- Belvedere Trading
+- Citadel / Citadel Securities
+- Cubist Systems (Point72)
+- DE Shaw
+- DRW
+- Five Rings Capital
+- Flow Trading
+- Hudson River Trading
+- IMC
+- Jane Street Capital
+- Jump Trading
+- Optiver
+- Susquehanna International Group (SIG)
+- Tower Research Capital
+- Two Sigma
+- Voleon
+- Voloridge
+
+#### Smaller firms that also take undergraduates
+
+- Alameda Research
+- Aquatic Capital
+- Chicago Trading Company
+- Cutler Group
+- Group One Trading
+- Old Mission Capital
+- Peak6
+- Valkyrie Trading
+- Vatic Labs
+- Virtu Financial
+- Wolverine Trading
+- XR Trading
+
+#### Other (Firms that are impossible to get into, even smaller firms, etc...)
 
 - 3Red Partners
-- <mark>**Akuna Capital**</mark>
-- **Alameda**
 - Allston Trading
 - Ansatz Capital
-- **Aquatic Capital**
 - ART Advisors
-- <mark>**Belvedere Trading**</mark>
 - Blackedge Capital
 - Bluefin Companies
-- **Chicago Trading Company**
-- <mark>**Citadel Securities**</mark>
 - Cognitive Capital
-- <mark>**Cubist Systems (Point72)**</mark>
-- **Cutler Group**
 - Da Vinci Derivatives
-- <mark>**DE Shaw**</mark>
 - Domeyard
-- <mark>**DRW**</mark>
 - DV Trading
 - Eagle Seven
 - Eclipse Trading
@@ -107,13 +133,10 @@ If you have an offer, make sure to join the [Traders/Quants/Devs Discord](https:
 - Epoch Trading Group
 - Ergoteles
 - Final
-- <mark>**Five Rings Capital**</mark>
-- <mark>**Flow Trading**</mark>
 - G-Research
 - Gelber Group
 - Geneva Trading
 - Gingko LLC
-- **Group One Trading**
 - GTS
 - HAP
 - HAP Capital
@@ -121,49 +144,33 @@ If you have an offer, make sure to join the [Traders/Quants/Devs Discord](https:
 - HC Tech
 - HC Technologies
 - Headlands Technologies
-- <mark>**Hudson River Trading**</mark>
-- <mark>**IMC**</mark>
 - Istra
-- <mark>**Jane Street Capital**</mark>
-- <mark>**Jump Trading**</mark>
 - Liquid Capital Group
 - Mako Trading
 - Maven Securities
 - Millenium Advisors
 - Nine Mile Financial
-- **Old Mission Capital**
-- <mark>**Optiver**</mark>
 - PDT Partners
-- **Peak6**
 - Quadrature Capital
 - Quantlab
 - Qube Research & Technologies
 - Radix Trading
-- Renaissance Technologies
+- Renaissance Technologies (Absolutely Goated)
 - RSJ Securities
 - Seven Eight Capital
 - Sierra Pacific Securities
 - Spark Capital Management
-- <mark>**Susquehanna International Group (SIG)**</mark>
 - Teza Technologies
-- TGS
+- TGS (Also Goated)
 - Tibra
-- <mark>**Tower Research Capital**</mark>
 - Tradebot Systems
 - TransMarket Group
 - Tsuru Capital
-- <mark>**Two Sigma**</mark>
-- **Valkyrie Trading**
-- **Vatic Labs**
 - Velar Technologies
-- **Virtu Financial**
 - VivCourt Trading
 - Volant Trading
-- <mark>**Voleon**</mark>
 - WH Trading
 - Wintermute
-- **Wolverine Trading**
-- **XR Trading**
 - XTX Markets
 
 ## Aknowledgements

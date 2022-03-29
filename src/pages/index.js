@@ -29,7 +29,7 @@ const BlogIndex = ({ data, location }) => {
       <Bio />
       <h3>Pinned Post</h3>
       <ol style={{ listStyle: `none`, marginBottom: '4rem' }}>
-        {[posts[4]].map(post => {
+        {[posts[5]].map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
