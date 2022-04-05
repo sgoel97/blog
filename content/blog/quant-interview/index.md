@@ -6,6 +6,8 @@ description: A quick guide to how to get ready for quant interviews.
 
 How to land a job in quant finance (focused primarily on trading).
 
+**Disclaimer:** All statements here are of my own opinion from personal experience and what I've heard.
+
 ### Applying
 
 #### Resume
@@ -52,11 +54,11 @@ For data science, you will most likely be asked about the data science process a
 
 #### Books
 
-- A Practical Guide to Quantitative Finance Interviews" by Xinfeng Zhou
+- "A Practical Guide to Quantitative Finance Interviews" by Xinfeng Zhou
 
 Often referred to as "The Green Book", this is the holy grail of interview prep for Quantitative Finance Interviews. Focus on Chapters 1, 2, 4, and 5 for trading interviews. Free PDF versions of the book can easily be found online.
 
-- Quant Job Interview Questions And Answers by Mark Joshi
+- "Quant Job Interview Questions And Answers" by Mark Joshi
 
 This book is also useful when preparing for quant interviews. Like the Green Book, free pdf versions of this book can be found online easily. Make sure to go through the Green Book first, however, and this book afterwards as a supplemental piece.
 
@@ -74,7 +76,7 @@ If you have an offer, make sure to join the [Traders/Quants/Devs Discord](https:
 
 ### List of Firms
 
-Disclaimer: Categorization of firms is entirely based on my personal opinion and knowledge.
+**Disclaimer:** Categorization of firms is entirely based on my personal opinion and knowledge.
 
 #### Popular firms for undergraduates
 
@@ -112,7 +114,7 @@ Disclaimer: Categorization of firms is entirely based on my personal opinion and
 - Wolverine Trading
 - XR Trading
 
-#### Other (Firms that are impossible to get into, even smaller firms, etc...)
+#### Other (Firms that are very difficult to get into, smaller firms, etc...)
 
 - 3Red Partners
 - Allston Trading
