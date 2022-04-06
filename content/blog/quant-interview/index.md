@@ -46,6 +46,10 @@ Make sure to have [CS 170](https://cs170.org/) level knowledge of programming an
 
 Not super important, but if you have time, make sure to brush up on basic Linear Algebra and Calculus. Make sure to have some sort of understanding of the math taught in classes like Math 53 and Math 54, focusing more on Linear Algebra rather than Calculus. If you did Multivariable Calculus and/or Linear Algebra in high school, that should be enough as well.
 
+- Statistics (Quantitative Research Roles)
+
+While an understanding of various testing methods and a general knowledge of statistics are useful for anybody in this field, these topics are usually only brought up in Quantitative Research interviews. Stat 135 is the most helpful for an intro to statistics, and is a fairly easy class.
+
 - Machine Learning and Data Science (Quantitative Research Roles)
 
 This is more so for Quantitative Research roles, but knowing linear regression inside and out is paramount for interviews. Good classes for this are Data 100 for basic numpy/pandas, Stat 151A or Econ 142 for linear modeling, and [CS 189](https://people.eecs.berkeley.edu/~jrs/189/) for general understanding of prediction techniques. None of these classes cover linear regression in-depth enough, however, so you'll need to engage in independent study as well.
@@ -68,7 +72,7 @@ Make sure to negotiate! Most firms will include or increase their sign-on bonus 
 
 #### Leveraging an Offer
 
-If you receive an offer, make sure to let everybody you're interviewing with know. The same goes with final rounds for any well-known company. This makes it seem as if you're in high demand, and will be seen as a positive when firms are making their final hiring decision.
+If you receive an offer, make sure to let everybody you're interviewing with know. The same goes with final rounds for any well-known company. This makes it seem as if you're in high demand, and will be seen as a positive signal when firms are making their final hiring decision.
 
 #### Community
 

@@ -24,7 +24,7 @@ Curve was a somewhat hard one, since the whitepaper wasn't particularly as helpf
 
 - [Curve StableSwap Whitepaper](https://curve.fi/files/stableswap-paper.pdf)
 
-Even though it's pretty confusing and doesn't explain algorithm design decisions as well as it could, definetely start here to learn about Curve and the StableSwap invariant. Don't worry if you're confused
+Even though it's pretty confusing and doesn't explain algorithm design decisions as well as it could, definitely start here to learn about Curve and the StableSwap invariant. Don't worry if you're confused, just read through this and then look through the next resource I've linked in this article.
 
 - [Explanation of the StableSwap Invariant](https://miguelmota.com/blog/understanding-stableswap-curve/)
 
