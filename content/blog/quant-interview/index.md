@@ -179,6 +179,6 @@ If you have an offer, make sure to join the [Traders/Quants/Devs Discord](https:
 - Wintermute
 - XTX Markets
 
-## Aknowledgements
+## Avknowledgements
 
 Shoutout to [Traders at Berkeley](https://traders.berkeley.edu/) for being an amazing knowledge source and community.
