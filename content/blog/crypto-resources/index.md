@@ -14,6 +14,20 @@ Really useful primer on ethereum and the basics of blockchain technology
 
 Good explanation for why WETH (Wrapped Eth) Exists
 
+## Solidity
+
+- [Crypto Zombies](https://cryptozombies.io/)
+
+Good place to start learning solidity.
+
+- [How to create an ERC-20 Token](https://ethereum.org/en/developers/tutorials/understand-the-erc-20-token-smart-contract/)
+
+How to create your own coin. Deploy using Remix.
+
+- [Open Zepplin ERC-20 Standard](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20)
+
+More advanced ERC-20 implementation.
+
 ## AMMs
 
 ### Curve (StableSwap)
