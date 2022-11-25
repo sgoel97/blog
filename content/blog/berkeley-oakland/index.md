@@ -5,3 +5,11 @@ description: Some restaurants and places to visit that I reccomend!
 ---
 
 [Rough Draft]
+
+### Touristy Areas
+
+### Nature
+
+### Restaurants
+
+### More Out of the Way

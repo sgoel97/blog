@@ -5,3 +5,13 @@ description: My reccomendations for what to do in San Fransisco.
 ---
 
 [Rough Draft]
+
+### The Obvious
+
+### My Favorite Spots
+
+### Restaurants
+
+-
+
+## Personal Hitlist
