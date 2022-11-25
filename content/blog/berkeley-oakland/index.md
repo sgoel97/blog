@@ -33,7 +33,7 @@ Campus is underrated. Lots of cool spots that people haven't been to!
 
 - Jack London Square
 
-Highly Reccomended!
+Highly recommended!
 
 - Oakland Chinatown
 - Emeryville Marina Park
