@@ -57,23 +57,49 @@ If you have any ideas of suggestions on places to add, feel free to email me at 
 
 - [Chinatown] Capital restaurant
 
+Pretty good authentic chinese restaurant.
+
 #### Price: $$
 
 - [Richmond District] Lokma
+
+I've been here for brunch, and Lokma never dissapoints. The potatoes are especially amazing.
+
 - [Richmond District] JiJime
+
+Great casual korean restaurant.
+
 - [Japantown] Kura sushi
+
+Rotating sushi bar in the Japantown mall. I've heard mixed reviews, but I liked it quite a bit when i went.
+
 - [Fisherman's Wharf] Surisan
+
+One of my favorite places in SF, and my go-to restaurant in a pinch. Brunch and dinner are both amazing, and Surisan consistently has top-quality korean food with a modern twist.
 
 #### Price: $$$
 
 - [FiDi] Happy Lamb Hot Pot
+
+Solid spot for Hot Pot in SF. The lamb here is pretty good given it's hard to find a variety of lamb at other hot pot places.
+
 - [FiDi] Bodega SF
+
+Amazing spot for modern vietnamese spot. A bit on the pricier side, but would 100% reccomend. Great bar vibe.
 
 #### Price: $$$$
 
 - [Chinatown] Empress by Boon
+
+While the food was pretty good, the presentation is what makes Empress by Boon so memorable. The restaurant is located on the 8th floor of a chinatown building, and the aesthetic is that of an upscale chinese penthouse. The plating is incredible, with lots of fun surprises throughout the 8-course menu.
+
 - [Nob Hill] Acquerello
+
+One of the best meals I've ever had. Lower on the quantity side, but the food they serve is pretty dense. If you come, make sure to savor each bite - you'll be longing for more at the end of the meal. Strong traditional fine dining vibe - there is a dress code.
+
 - [Japantown] An Sushi
+
+The best Omakase I've had to date. Not too pricy for Omakase at around $100 for their highest-course option. Plating was amazing, and while not as traditional, the food was better than any traditional Omakase I've been to.
 
 ## My Hitlist
 
@@ -126,8 +152,8 @@ If you have any ideas of suggestions on places to add, feel free to email me at 
 
 #### Price: $$$$
 
-- Gary Danko
-- Spruce
-- Birdsong
-- Atelier Crenn
-- Benu
+- [Fisherman's Wharf] Gary Danko
+- [Presidio Heights] Spruce
+- [Theater District] Birdsong
+- [Marina District] Atelier Crenn
+- [FiDi] Benu
