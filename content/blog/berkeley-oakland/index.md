@@ -6,7 +6,7 @@ description: Some restaurants and places to visit that I reccomend!
 
 [Rough Draft]
 
-## Places
+## Places to Visit
 
 ### The Obvious
 
@@ -29,7 +29,7 @@ Campus is underrated. Lots of cool spots that people haven't been to!
 - Oakland Bonsai Garden
 - Joaquin Miller Park
 
-### Cool Places and Areas
+### Personal Favorites
 
 - Jack London Square
 
@@ -40,11 +40,7 @@ Highly recommended!
 - Emeryville Bay Street
 - Oakland Church of Latter Day Saints
 
-###
-
-## Restaurants
-
-### Favorite Places I've Visited
+## Places to Eat
 
 #### Berkeley
 
@@ -64,7 +60,9 @@ Oakland Chinatown, $10-20
 
 Oakland Chinatown, $10-20
 
-### My Hitlist
+## My Hitlist
+
+### Restaurants
 
 #### Berkeley
 

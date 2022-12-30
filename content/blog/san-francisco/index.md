@@ -6,78 +6,123 @@ description: My reccomendations for what to do in San Fransisco.
 
 [Rough Draft]
 
-### The Obvious
+Welcome to Samarth's guide on what to do, places to see, and good restaurants to eat while in or near San Fransisco!
 
-- Pier 39
+San Francisco is one of my all-time favorite cities. When I first moved to the area, I saw it as a fun place to visit, but it wasn't until I ventured beyond downtown and started exploring the west side of the city that I truly fell in love with it. In my opinion, San Francisco excels in two areas: food and nature. If you're a fan of these two things like I am, then you're sure to fall in love with this city too.
+
+One of the things I love most about San Francisco is the variety of memorable places to visit. Whether you're a newcomer to the area or a seasoned veteran, there's always something new and exciting to discover. Below are a few of my top recommendations for anyone looking to explore the city.
+
+If you have any ideas of suggestions on places to add, feel free to email me at sgoel9@berkeley.edu.
+
+## Places to Visit
+
+### "Touristy" Destinations
+
+- Fisherman's Wharf
+  - Pier 39
+  - Ghirardheli Square
+- SF Chinatown
 - Ferry Building
 - Palace of Fine Arts
+- Yerba Buena Gardens
+- Salesforce Park
+- Coit Tower
 - Union Square
 - Golden Gate Park
   - Strawberry Hill
   - Dutch Windmills
+  - California Academy of Sciences
+  - Conservatory of Flowers
 
-### More of My Favorite Spots
+### Some of My Favorite Spots
 
 - Stonestown Galleria
-- De Young Museum
+- Golden Gate Park
+  - De Young Museum
+  - Japanese Tea Garden
 - Ocean Beach
 - Fort Mason
 - Sutro Baths
+- Sutro Heights
+- Presidio
+- The Spark
 - Lands End Lookout
+- Dolores Park
+- Marin Headlands
+- SFMOMA
 
-### Restaurants
+## Places to Eat
 
-Some restaurants I highly reccomend!
+#### Price: $
 
-- Bodega SF
-- Lokma
-- Acquerello
-- JiJime
-- Kura sushi
-- Surisan
-- Mourad
-- Empress by Boon
+- [Chinatown] Capital restaurant
 
-## Personal Hitlist
+#### Price: $$
+
+- [Richmond District] Lokma
+- [Richmond District] JiJime
+- [Japantown] Kura sushi
+- [Fisherman's Wharf] Surisan
+
+#### Price: $$$
+
+- [FiDi] Happy Lamb Hot Pot
+- [FiDi] Bodega SF
+
+#### Price: $$$$
+
+- [Chinatown] Empress by Boon
+- [Nob Hill] Acquerello
+- [Japantown] An Sushi
+
+## My Hitlist
 
 ### Places
 
 - Legion of Honor Museum
+- China Beach
+- Baker Beach
+- Black Sands Beach
+- Muir Woods National Monument
+- The wave organ
+- Glen canyon park
+- War memorial opera house
+- Palace Hotel
+- SF Xoo
+- SF Exploratorium
 
 ### Restaurants
 
 #### Price: $
 
-- Sam Wo
+- [Chinatown] Sam Wo
 
 #### Price: $$
 
-- Bodega SF
-- El Buen Comer
-- BanSang
-- Ilcha
-- Rintaro
-- Zuni
-- Nari
-- K-Elements KBBQ
-- Mandalay
-- Breadbelly
-- Abaca
+- [Bernal Heights] El Buen Comer
+- [Filmore District] BanSang
+- [Marina District] Ilcha
+- [Mission] Rintaro
+- [Civic Center] Zuni
+- [Japantown] Nari
+- [Richmond District] K-Elements KBBQ
+- [Richmond District] Mandalay
+- [Richmond District] Breadbelly
+- [Fisherman's Wharf] Abaca
 
 #### Price: $$$
 
-- Tonga room
-- Nopa
-- State Bird Provisions
-- Son and Gardens
-- Mister Jius
-- China Live
-- Norcina
-- Cotagna
-- Kokkari Estiatorio
-- Hilda and Jesse
-- Akiko
-- Hong Kong east ocean dimsum and view of bay
+- [FiDi] Tonga room
+- [Panhandle] Nopa
+- [Fillmore District] State Bird Provisions
+- [Tenderloin] Son and Gardens
+- [Chinatown] Mister Jius
+- [Chinatown] China Live
+- [Marina District] Norcina
+- [Chinatown] Cotagna
+- [North Beach] Hilda and Jesse
+- [FiDi] Akiko
+- [FiDi] Hong Kong east ocean dimsum and view of bay
 
 #### Price: $$$$
 
