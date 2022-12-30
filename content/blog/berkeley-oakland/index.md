@@ -11,9 +11,7 @@ description: Some restaurants and places to visit that I reccomend!
 ### The Obvious
 
 - UC Berkeley
-
-Campus is underrated. Lots of cool spots that people haven't been to!
-
+- Emeryville Bay Street
 - Oakland Ice Skating Rink
 
 ### Nature
@@ -37,28 +35,29 @@ Highly recommended!
 
 - Oakland Chinatown
 - Emeryville Marina Park
-- Emeryville Bay Street
+- Albany Bulb
 - Oakland Church of Latter Day Saints
 
 ## Places to Eat
 
 #### Berkeley
 
-- Rose Pizzaria
-- Angelines
-- Jupyter Pizza
-- Comal
-- Cheeseboard
+- [Rose Pizzaria](https://www.rosepizzeria.com/)
+- [Angelines](https://angelineskitchen.com/index.html)
+- [Saul's Delicatessen](http://www.saulsdeli.com/)
+- [Jupiter Pizza](http://www.jupiterbeer.com/)
+- [Comal](https://www.comalberkeley.com/)
+- [Cheeseboard](https://cheeseboardcollective.coop/)
 
 #### Oakland
 
-- Shan Dong Restaurant
+- [Shan Dong Restaurant](http://shandongoakland.com/)
 
-Oakland Chinatown, $10-20
+My personal favorite restaurant in Oakland. Consistently good authentic Shandong style food, and not too pricey.
 
-- Shooting Star Cafe
+- [Shooting Star Cafe](https://www.shootingstarhkcafe.com/)
 
-Oakland Chinatown, $10-20
+A favorite in Oakland's chinatown, with large portions. A must-go for anyone visiting the area.
 
 ## My Hitlist
 
