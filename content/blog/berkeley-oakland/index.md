@@ -6,19 +6,29 @@ description: Some restaurants and places to visit that I reccomend!
 
 [Rough Draft]
 
+As a student at UC Berkeley, I'm always on the lookout for new and exciting places to explore, eat, and discover. Let me tell you - Berkeley, Oakland, and San Francisco are full of amazing destinations! Below I've listed some cool places to explore in Berkeley and Oakland. I hope they help you pick your next adventure!
+
+If you're looking for even more travel inspiration, make sure to check out my [San Francisco Guide](https://blog.samarthgoel.com/san-francisco/) as well. It's packed with even more amazing places to visit in the Bay Area.
+
+If you have any ideas of suggestions on places to add, feel free to email me at sgoel9@berkeley.edu.
+
 ## Places to Visit
 
-### The Obvious
+### Well-Known Places
 
 - UC Berkeley
 - Emeryville Bay Street
 - Oakland Ice Skating Rink
 
-### Nature
+### Nature-y Destinations
 
 #### Berkeley
 
 - Indian Rock Park
+- Clark Kerr Campus
+- Claremont Hotel
+- Tilden Nature Area
+- Top of the Bay Viewpoint
 - Berkeley Rose Garden
 
 #### Oakland
@@ -30,9 +40,6 @@ description: Some restaurants and places to visit that I reccomend!
 ### Personal Favorites
 
 - Jack London Square
-
-Highly recommended!
-
 - Oakland Chinatown
 - Emeryville Marina Park
 - Albany Bulb
@@ -45,6 +52,7 @@ Highly recommended!
 - [Rose Pizzaria](https://www.rosepizzeria.com/)
 - [Angelines](https://angelineskitchen.com/index.html)
 - [Saul's Delicatessen](http://www.saulsdeli.com/)
+- [Vik's Chaat](https://vikschaat.com/)
 - [Jupiter Pizza](http://www.jupiterbeer.com/)
 - [Comal](https://www.comalberkeley.com/)
 - [Cheeseboard](https://cheeseboardcollective.coop/)
@@ -60,6 +68,12 @@ My personal favorite restaurant in Oakland. Consistently good authentic Shandong
 A favorite in Oakland's chinatown, with large portions. A must-go for anyone visiting the area.
 
 ## My Hitlist
+
+### Places
+
+- Berkeley Botanical Garden
+- Kayaking on the Marina
+- Point Reyes
 
 ### Restaurants
 

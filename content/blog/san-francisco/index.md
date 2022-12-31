@@ -25,6 +25,7 @@ If you have any ideas of suggestions on places to add, feel free to email me at 
 - Ferry Building
 - Palace of Fine Arts
 - Yerba Buena Gardens
+- Sandbox VR
 - Salesforce Park
 - Coit Tower
 - Union Square
@@ -33,6 +34,7 @@ If you have any ideas of suggestions on places to add, feel free to email me at 
   - Dutch Windmills
   - California Academy of Sciences
   - Conservatory of Flowers
+- SFMOMA
 
 ### Some of My Favorite Spots
 
@@ -43,13 +45,13 @@ If you have any ideas of suggestions on places to add, feel free to email me at 
 - Ocean Beach
 - Fort Mason
 - Sutro Baths
+- Musee Mecanique Arcade
 - Sutro Heights
 - Presidio
 - The Spark
 - Lands End Lookout
 - Dolores Park
 - Marin Headlands
-- SFMOMA
 
 ## Places to Eat
 
@@ -114,7 +116,7 @@ The best Omakase I've had to date. Not too pricy for Omakase at around $100 for 
 - Glen canyon park
 - War memorial opera house
 - Palace Hotel
-- SF Xoo
+- SF Zoo
 - SF Exploratorium
 
 ### Restaurants
