@@ -1,18 +1,20 @@
 ---
-title: Crypto Resources
+title: Crypto and DeFi Resources
 date: "2022-03-22"
-description: Some resources for Crypto Stuff.
+description: Resources I've used to gain a deeper understanding of common DeFi tools and technologies.
 ---
+
+Below are some resources I would reccomend to those looking to learn more about DeFi and Crypto, categorized by topic. Even though these can be looked at in any order, I would recommend beginners to watch the first video linked under the Ethereum section to gain an understanding of networks and protocols, concepts that are ubiquitous in the DeFi World.
 
 ## Ethereum
 
 - https://www.youtube.com/watch?v=jxLkbJozKbY
 
-Really useful primer on ethereum and the basics of blockchain technology
+Really useful primer on ethereum and the basics of blockchain technology.
 
 - https://weth.io/
 
-Good explanation for why WETH (Wrapped Eth) Exists
+Good explanation for why WETH (Wrapped Eth) Exists.
 
 ## Solidity
 
@@ -29,6 +31,16 @@ How to create your own coin. Deploy using Remix.
 More advanced ERC-20 implementation.
 
 ## AMMs
+
+### Uniswap
+
+You can't go wrong with the UniSwap whitepaper. The whitepaper for Uniswap V3 is pretty confusing if you haven't read and understood the whitepaper for UniSwap V2 first, so make sure to start there if you're new to AMMs.
+
+- [Uniswap V2 Whitepaper](https://uniswap.org/whitepaper.pdf)
+
+- [Uniswap V3 Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+
+Don't worry if you don't quite get what's going on here. The mechanisms behind Uniswap V3 are fairly unintuitive, and the whitepaper doesn't do the best job on explaining the core concepts it relies upon, such as concentrated liquidity.
 
 ### Curve (StableSwap)
 

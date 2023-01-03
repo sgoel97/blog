@@ -1,14 +1,14 @@
 ---
-title: Samarth's San Fransisco Guide
+title: Samarth's Guide to San Fransisco
 date: "2022-11-24"
-description: My reccomendations for what to do in San Fransisco.
+description: My recommendations on how to make the most of a visit to SF.
 ---
 
-[Rough Draft]
+[In Progress]
 
 Welcome to Samarth's guide on what to do, places to see, and good restaurants to eat while in or near San Fransisco!
 
-San Francisco is one of my all-time favorite cities. When I first moved to the area, I saw it as a fun place to visit, but it wasn't until I ventured beyond downtown and started exploring the west side of the city that I truly fell in love with it. In my opinion, San Francisco excels in two areas: food and nature. If you're a fan of these two things like I am, then you're sure to fall in love with this city too.
+San Francisco is one of my all-time favorite cities. When I first moved to the area, I saw it as a decent place to spend a weekend, but it wasn't until I ventured beyond downtown and started exploring the west side of the city that I truly fell in love with it. In my opinion, San Francisco excels in two areas: food and nature. If you're a fan of these two things like I am, then you're sure to fall in love with this city too.
 
 One of the things I love most about San Francisco is the variety of memorable places to visit. Whether you're a newcomer to the area or a seasoned veteran, there's always something new and exciting to discover. Below are a few of my top recommendations for anyone looking to explore the city.
 
