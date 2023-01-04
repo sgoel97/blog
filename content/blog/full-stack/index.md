@@ -45,7 +45,7 @@ In frontend development, everything compiles down to these thre things: HTML, CS
 ### Our First Stop: Complete Intro to Web Development
 
 <figure>
-    <img src="/frontend/intro-to-web-dev.png" alt="Complete Intro to Web Development, v3" width="100%"/>
+    <img src="/full-stack/intro-to-web-dev.png" alt="Complete Intro to Web Development, v3" width="100%"/>
     <figcaption align="center">
         <p>
             <a href="https://frontendmasters.com/courses/web-development-v3/">
@@ -60,7 +60,7 @@ Given that most of web and frontend development boils down to HTML, CSS, and Jav
 ### Step Two: Understanding the Internet
 
 <figure>
-    <img src="/frontend/internet.png" alt="How The Internet Works" width="100%"/>
+    <img src="/full-stack/internet.png" alt="How The Internet Works" width="100%"/>
     <figcaption align="center">
         <p>
             <a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7">
@@ -75,7 +75,7 @@ Now that we've gotten a solid understanding of how to build a website, let's tur
 ### Stopping Point: Your First Project
 
 <figure>
-    <img src="/frontend/feb.png" alt="Formula Electric at Berkeley" width="100%"/>
+    <img src="/full-stack/feb.png" alt="Formula Electric at Berkeley" width="100%"/>
     <figcaption align="center">
         <p>
             <a href="https://ev.berkeley.edu/">
