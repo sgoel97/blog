@@ -4,7 +4,7 @@ date: "2022-03-25"
 description: A quick guide to how to get ready for quant interviews.
 ---
 
-How to land a job in quant finance (focused primarily on trading).
+How to land an internship or new grad role in quant finance (focused primarily on trading).
 
 **Disclaimer:** All statements here are of my own opinion from personal experience and what I've heard.
 
@@ -161,13 +161,13 @@ If you have an offer, make sure to join the [Traders/Quants/Devs Discord](https:
 - Quantlab
 - Qube Research & Technologies
 - Radix Trading
-- Renaissance Technologies (Absolutely Goated)
+- Renaissance Technologies
 - RSJ Securities
 - Seven Eight Capital
 - Sierra Pacific Securities
 - Spark Capital Management
 - Teza Technologies
-- TGS (Also Goated)
+- TGS
 - Tibra
 - Tradebot Systems
 - TransMarket Group
@@ -179,6 +179,6 @@ If you have an offer, make sure to join the [Traders/Quants/Devs Discord](https:
 - Wintermute
 - XTX Markets
 
-## Avknowledgements
+## Aknowledgements
 
 Shoutout to [Traders at Berkeley](https://traders.berkeley.edu/) for being an amazing knowledge source and community.

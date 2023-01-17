@@ -115,24 +115,28 @@ If you're visiting Oakland's Chinatown, Shooting Star Cafe is a must-try. Not on
 
 **Near UC Berkeley Campus:**
 
-- Kiraku
-- Milkbomb
-- Chez Peniz
-- Ippuku
-- Corso
-- Barbarian Grub and Ale
+- [Kiraku](https://kirakuberkeley.com/)
+- [Milkbomb](https://milkbombicecream.com/)
+- [Chez Peniz](https://www.chezpanisse.com/1/)
+- [Ippuku](https://ippukuberkeley.com/)
+- [Corso](https://www.viadelcorso.net/)
+- [Barbarian Grub and Ale](https://www.barbarianberkeley.com/)
 
 **A Bit Further Away:**
 
-- The Italian Homemade Company
-- Donato and Co
-- La Mission
-- Gaumenkitzel
-- Funky Elephant
+- [The Italian Homemade Company](https://italianhomemade.com/delivery/berkeley)
+- [Donato and Co](https://www.donatoandco.com/)
+- [La Mission](https://www.yelp.com/biz/la-mission-berkeley)
+- [Gaumenkitzel](https://www.gaumenkitzel.net/)
+- [Funky Elephant](https://www.funkyelephantthai.com/)
 
 #### Oakland
 
-- Top Hatters
-- Azit
-- Izza
-- Gangnam Jajang
+- [Top Hatters](https://tophatterskitchen.com/)
+- [Azit](https://www.yelp.com/biz/azit-oakland)
+- [Izza](https://izza.menu11.com/)
+- [Gangnam Jajang](https://www.gangnamjajang.com/)
+
+## Aknowledgements
+
+I get most of my ideas on places to go to and eat in East Bay from other UC Berkeley students, TikTok, and [Eater](https://sf.eater.com/). I especially love using Eater for interesting restaurant recommendations.

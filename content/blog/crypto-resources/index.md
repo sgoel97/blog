@@ -20,7 +20,7 @@ Good explanation for why WETH (Wrapped Eth) Exists.
 
 - [Crypto Zombies](https://cryptozombies.io/)
 
-Good place to start learning solidity.
+Whether you have some experience programming or are starting from scratch, I'd recommend starting with Crypto Zombies to learn the ins and outs of solidity. The tutorial explains the fundamental concepts behind the Solidity language rather than just going over syntax, making it easy to understand how Solidity is well-suited to smart contracts.
 
 - [How to create an ERC-20 Token](https://ethereum.org/en/developers/tutorials/understand-the-erc-20-token-smart-contract/)
 
