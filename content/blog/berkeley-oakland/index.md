@@ -121,6 +121,8 @@ If you're visiting Oakland's Chinatown, Shooting Star Cafe is a must-try. Not on
 - [Ippuku](https://ippukuberkeley.com/)
 - [Corso](https://www.viadelcorso.net/)
 - [Barbarian Grub and Ale](https://www.barbarianberkeley.com/)
+- [Masa Ramen](https://www.yelp.com/biz_photos/masa-ramen-bistro-berkeley-3?select=IJwhrOiIwVYaDwO0Tf6Shg)
+- [Cafe Ohlone](https://www.makamham.com/cafeohlone)
 
 **A Bit Further Away:**
 
@@ -129,6 +131,9 @@ If you're visiting Oakland's Chinatown, Shooting Star Cafe is a must-try. Not on
 - [La Mission](https://www.yelp.com/biz/la-mission-berkeley)
 - [Gaumenkitzel](https://www.gaumenkitzel.net/)
 - [Funky Elephant](https://www.funkyelephantthai.com/)
+- [Lulu](https://www.luluberkeley.com/)
+- [Good To Eat Dumplings & Modern Taiwanese Cusine](https://www.goodtoeatdumplings.com/)
+- [State Flour Pizza Company](https://www.instagram.com/stateflourpizza/?hl=en)
 
 #### Oakland
 
@@ -136,6 +141,12 @@ If you're visiting Oakland's Chinatown, Shooting Star Cafe is a must-try. Not on
 - [Azit](https://www.yelp.com/biz/azit-oakland)
 - [Izza](https://izza.menu11.com/)
 - [Gangnam Jajang](https://www.gangnamjajang.com/)
+- [Hong Kong East Ocean Seafood Restaurant](http://hkeo.us/)
+- [Lula Restaurant](http://orderlularestaurant.com/)
+- [Commis](https://commisrestaurant.com/)
+- [Ok's Deli](https://oksdeli.com/)
+- [Yonsei Handrolls](https://www.yonseihandrolls.com/)
+- [Noka Ramen](https://nokaramen.com/)
 
 ## Aknowledgements
 
