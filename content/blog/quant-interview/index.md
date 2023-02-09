@@ -74,10 +74,6 @@ Make sure to negotiate! Most firms will include or increase their sign-on bonus 
 
 If you receive an offer, make sure to let everybody you're interviewing with know. The same goes with final rounds for any well-known company. This makes it seem as if you're in high demand, and will be seen as a positive signal when firms are making their final hiring decision.
 
-#### Community
-
-If you have an offer, make sure to join the [Traders/Quants/Devs Discord](https://discord.gg/9caQmCcvRZ)! You'll need an offer letter to join any of the useful or company-specific channels, so this is a task that's only possible once you recieve an offer.
-
 ### List of Firms
 
 **Disclaimer:** Categorization of firms is entirely based on my personal opinion and knowledge.
