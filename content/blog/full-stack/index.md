@@ -2,6 +2,7 @@
 title: Become a Full-Stack Engineer
 date: "2022-03-27"
 description: Your go-to guide on getting started with full-stack development.
+category: software
 ---
 
 [In Progress]
@@ -111,7 +112,7 @@ If you've elected to skip the course for whatever reason, you can find the full 
 
 ## Getting More Advanced
 
-Now that we 
+Now that we
 
 ## Introducing React
 

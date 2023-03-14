@@ -2,6 +2,7 @@
 title: Understanding Crypto and DeFi
 date: "2022-03-26"
 description: Explaining crypto with an analogy to the stock market and concepts of supply-and-demand.
+category: software
 ---
 
 Crypto may seem daunting, and understanding everything that's out there, as well as the mechanics behind it, can seem incredibly confusing. Hopefully, this simple analogy can help shed a little bit of light on a more traditional way to view crypto and how to interpret all of the price movements and news that you see.

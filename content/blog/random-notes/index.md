@@ -2,6 +2,7 @@
 title: Random Thoughts
 date: "2022-11-24"
 description: Connecting the world to math, science, and technology.
+category: misc
 ---
 
 ## Ride-Share and Blockchain Architecture

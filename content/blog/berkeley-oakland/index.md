@@ -2,6 +2,7 @@
 title: Samarth's Guide to Berkeley & Oakland
 date: "2022-11-24"
 description: My recommended East Bay restaurants and destinations.
+category: travel
 ---
 
 [In Progress]

@@ -2,6 +2,7 @@
 title: Hello World
 date: "2022-01-10"
 description: System.out.println("Hello World!");
+category: misc
 ---
 
 Hello all, and welcome to Samarth's blog! This is my first blog post, and while it may one day become a sappy and emotional monologue on my motivations behind starting this journey, I'll keep it brief for now.

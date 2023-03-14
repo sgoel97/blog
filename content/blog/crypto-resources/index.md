@@ -2,6 +2,7 @@
 title: Crypto and DeFi Resources
 date: "2022-03-22"
 description: Resources I've used to gain a deeper understanding of common DeFi tools and technologies.
+category: software
 ---
 
 Below are some resources I would reccomend to those looking to learn more about DeFi and Crypto, categorized by topic. Even though these can be looked at in any order, I would recommend beginners to watch the first video linked under the Ethereum section to gain an understanding of networks and protocols, concepts that are ubiquitous in the DeFi World.

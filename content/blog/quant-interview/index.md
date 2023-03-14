@@ -2,6 +2,7 @@
 title: Acing the Quant Interview
 date: "2022-03-25"
 description: A quick guide to how to get ready for quant interviews.
+category: quant
 ---
 
 How to land an internship or new grad role in quant finance (focused primarily on trading).

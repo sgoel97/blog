@@ -2,6 +2,7 @@
 title: Quantitative Finance Resources
 date: "2022-03-26"
 description: Useful resources for current and aspiring practitioners of quantitative finance.
+category: quant
 ---
 
 Below is a collection of resources relevant to quant finance that I've collected or personally found useful. Quant finance can often seem like a field shrouded in mystery. Hopefully, this list can help illuminate certain aspects of the industry you may be interested in learning more about.
