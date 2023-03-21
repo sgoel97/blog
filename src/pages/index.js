@@ -22,10 +22,10 @@ const BlogIndex = ({ data, location }) => {
   const categorizedPosts = {
     quant: ["Acing the Quant Interview", "Quantitative Finance Resources"],
     travel: [
+      "Samarth's Guide to San Francisco",
+      "Samarth's Guide to Berkeley & Oakland",
       "Samarth's San Diego Itinerary",
       "Samarth's Guide to Chicago",
-      "Samarth's Guide to San Fransisco",
-      "Samarth's Guide to Berkeley & Oakland",
     ],
     software: [
       "Become a Full-Stack Engineer",
