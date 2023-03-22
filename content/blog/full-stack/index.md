@@ -112,10 +112,16 @@ If you've elected to skip the course for whatever reason, you can find the full 
 
 ## Getting More Advanced
 
-Now that we
+[Coming Soon]
 
 ## Introducing React
 
-## Introducing React
+[Coming Soon]
+
+## The Backend
+
+[Coming Soon]
 
 ## More Resources
+
+[Coming Soon]

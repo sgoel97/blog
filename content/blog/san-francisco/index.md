@@ -47,7 +47,7 @@ If you have any ideas of suggestions on places to add, feel free to email me at 
 
   - De Young Museum
 
-    **[TODO]**
+    <!-- **[TODO]** -->
 
   - Japanese Tea Garden
 
@@ -58,7 +58,7 @@ If you have any ideas of suggestions on places to add, feel free to email me at 
 - Sutro Baths
 - Musee Mecanique Arcade
 
-A true hidden gem, this arcade is one of the only remaining coin-operated arcades in the bay area **[TODO - fact check]**.
+<!-- A true hidden gem, this arcade is one of the only remaining coin-operated arcades in the bay area **[TODO - fact check]**. -->
 
 - Sutro Heights
 - Presidio
@@ -68,7 +68,7 @@ Built for both foodies and anyone looking to have a fun time getting lunch, Spar
 
 - 826 Valencia, Woodland Creature Outfitters
 
-**[TODO - write]**
+<!-- **[TODO - write]** -->
 
 - Lands End Lookout
 
@@ -169,6 +169,7 @@ While I haven't been to these restaurants personally (hence their membership on 
 - [[Marina District] Ilcha](https://www.ilchasf.com/)
 - [[Mission] Rintaro](https://izakayarintaro.com/)
 - [[Mission] Freekeh](https://www.freekehsf.com/)
+- [[Mission] Ernest](https://www.ernestsf.com/)
 - [[Richmond District] K-Elements KBBQ](https://www.kelementsbbq.com/)
 - [[Richmond District] Mandalay](https://www.mandalaysf.com/)
 - [[Richmond District] Breadbelly](https://www.breadbellysf.com/)
@@ -179,30 +180,29 @@ While I haven't been to these restaurants personally (hence their membership on 
 - [[Japantown] Waraku](https://www.ramenwaraku.com/)
 - [[Design District] Rosemary and Pine](https://www.rosemaryandpinesf.com/)
 - [[Design District] Dumpling Time](https://www.dumplingtime.com/)
-- [[Mission] Ernest](https://www.ernestsf.com/)
 - [[Dolores Heights] Itria](https://www.itriasf.com/)
+- [[Dolores Heights] Four Chairs](https://www.fourchairssf.com/)
 - [[Pacific Heights] Sushi Hakko](https://www.sushihakko.com/)
 - [[Russian Hill] Union Larder](http://unionlarder.com/)
 - [[Civic Center] Zuni Cafe](http://zunicafe.com/)
 - [[Civic Center] Dumpling Home](https://www.dumplinghome.com/)
-- [[Dolores Heights] Four Chairs](https://www.fourchairssf.com/)
 
 #### Price: $$$
 
-- [[FiDi] Tonga Room](https://www.fairmont-san-francisco.com/dine/tonga-room-hurricane-bar/)
 - [[Panhandle] Nopa](http://nopasf.com/)
 - [[Fillmore District] State Bird Provisions](https://statebirdsf.com/)
 - [[Tenderloin] Son and Gardens](https://sonandgarden.com/)
 - [[Chinatown] Mister Jius](https://www.misterjius.com/)
 - [[Chinatown] China Live](https://chinalivesf.com/)
-- [[Marina District] Norcina](https://www.norcina.com/)
 - [[Chinatown] Cotagna](https://www.cotognasf.com/)
+- [[Marina District] Norcina](https://www.norcina.com/)
 - [[North Beach] Hilda and Jesse](https://www.hildaandjessesf.com/)
 - [[FiDi] Akiko](http://akikosrestaurant.com/)
 - [[FiDi] Harborview Restaurant & Bar](https://www.harborviewsf.com/)
+- [[FiDi] Tonga Room](https://www.fairmont-san-francisco.com/dine/tonga-room-hurricane-bar/)
 - [[Potrero Hill] Plow](https://www.eatatplow.com/)
-- [[[Civic Center] Robin](http://www.robinsanfrancisco.com/)
-- [[[Hayes Valley] Rich Table](https://www.richtablesf.com/)
+- [[Civic Center] Robin](http://www.robinsanfrancisco.com/)
+- [[Hayes Valley] Rich Table](https://www.richtablesf.com/)
 
 #### Price: $$$$
 
