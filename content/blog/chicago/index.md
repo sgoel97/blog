@@ -1,6 +1,6 @@
 ---
 title: Samarth's Guide to Chicago
-date: "2023-5-6"
+date: "2023-05-06"
 description: What to see, what to eat, and what to do while in the best city in the world.
 category: travel
 ---
