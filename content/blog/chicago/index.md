@@ -1,7 +1,8 @@
 ---
 title: Samarth's Guide to Chicago
-date: "2023-1-16"
+date: "2023-5-6"
 description: What to see, what to eat, and what to do while in the best city in the world.
+category: travel
 ---
 
 As a resident of Chicago, the greater Chicagoland area (for the majority of my life), the Bay Area, and (somewhat more dubiously) New York City, and having traveled to all ends of the United States, I can say, with confidence, that Chicago is the best city in America, and potentially the world.
