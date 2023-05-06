@@ -5,8 +5,6 @@ description: My recommended East Bay restaurants and destinations.
 category: travel
 ---
 
-[In Progress]
-
 As a student at UC Berkeley, I'm always on the lookout for new and exciting places to explore, eat, and discover. Let me tell you - Berkeley, Oakland, and San Francisco are full of amazing destinations! Below I've listed some cool places to explore in Berkeley and Oakland. I hope they help you pick your next adventure!
 
 If you're looking for even more travel inspiration, make sure to check out my [San Francisco Guide](https://blog.samarthgoel.com/san-francisco/) as well. It's packed with even more amazing places to visit in the Bay Area.
@@ -121,7 +119,6 @@ If you're visiting Oakland's Chinatown, Shooting Star Cafe is a must-try. Not on
 - [Chez Peniz](https://www.chezpanisse.com/1/)
 - [Ippuku](https://ippukuberkeley.com/)
 - [Corso](https://www.viadelcorso.net/)
-- [Barbarian Grub and Ale](https://www.barbarianberkeley.com/)
 - [Masa Ramen](https://www.yelp.com/biz_photos/masa-ramen-bistro-berkeley-3?select=IJwhrOiIwVYaDwO0Tf6Shg)
 - [Cafe Ohlone](https://www.makamham.com/cafeohlone)
 
