@@ -15,7 +15,7 @@ In this blog post, I've compiled my top recommendations for places to visit in C
 
 If you have any ideas or suggestions on additions to this guide, feel free to email me at sgoel9@berkeley.edu.
 
-Recommendations in spreadsheet form: [Samarth's Guide to Chicago](https://docs.google.com/spreadsheets/d/1jke16brYuEZCHnmdJR5FT3dDzBRIfsVTH7B60Gb5w8s/edit#gid=0)
+Recommendations and hitlist in spreadsheet form: [Samarth's Guide to Chicago](https://docs.google.com/spreadsheets/d/1jke16brYuEZCHnmdJR5FT3dDzBRIfsVTH7B60Gb5w8s/edit#gid=0)
 
 ## Places to Visit
 
