@@ -25,37 +25,39 @@ While referrals can help, don't focus on creating connections within the industr
 
 #### Year in School
 
-Never, ever say you're a sophomore or a freshman, because that means an automatic rejection from any quant internship. If you're a freshman or a sophomore, there's specific programs that you can apply to, such as [Jane Street's FTTP](https://www.janestreet.com/join-jane-street/our-programs/fttp/), [Citadel's Discover Citadel](https://www.citadel.com/careers/launch-your-career/discover-citadel/), and [D.E. Shaw's Fellowship Programs](https://www.deshaw.com/careers/fellowships), amongst some others.
+Never say you're a sophomore or a freshman, because that means an automatic rejection from any quant internship. If you're a freshman or a sophomore, there's specific programs that you can apply to, such as [Jane Street's FTTP](https://www.janestreet.com/join-jane-street/our-programs/fttp/), [Citadel's Discover Citadel](https://www.citadel.com/careers/launch-your-career/discover-citadel/), and [D.E. Shaw's Fellowship Programs](https://www.deshaw.com/careers/fellowships), amongst some others. I would recommend freshmen and sophomores spend their summers taking classes, doing CS research, or working a software engineering internship at either a big tech firm or a cool startup. If you don't have an internship lined up, I would push self-learning as a great use of extra time.
 
 ### Preparation
 
-##### Classes and Areas of Study
+##### Areas of Study and Relevant Classes
+
+**Disclaimer:** I'm a student at UC Berkeley, so class recommendations will primarily focus on offerings from Berkeley. Most course content from these classes is public, however, and linked below.
 
 - Mental Math
 
-The bread and butter of trading, make sure your mental math game is on point. While there are no classes for this, make sure to practice it often while doing practice problems in math, probability, or any other technical field, or even in everyday life! A good resource to practice your mental math skills is [ZetaMac](https://arithmetic.zetamac.com/). Use the default settings, and try to score above 40. if you can't do it initially, keep on practicing! Just like everything else, practicing mental math often makes you both faster and better at it.
+Make sure your mental math game is on point. While there are no classes for this, make sure to practice it often while doing practice problems in math, probability, or any other technical field, or even in everyday life! A good resource to practice your mental math skills is [ZetaMac](https://arithmetic.zetamac.com/). Use the default settings, and try to score above 40. if you can't do it initially, keep on practicing! Just like everything else, practicing mental math often makes you both faster and better at it.
 
 - Probability
 
-This one is by far the most important topic to understand. A lot of trading interviews won't even test your programming skills and only your understanding of math and probability. Thus it is **paramount** to understand probability inside and out. Make sure you take at least one upper-division probability course. I would recommend [Data 140](http://prob140.org/) or [EECS 126](https://inst.eecs.berkeley.edu/~ee126/sp22/) for this. EECS 126 covers more, but Data 140 goes more in-depth and is more related to the type of stuff you'll see in interviews, so I'd recommend that over EECS 126. If you take Data 140, I'd personally recommend [Stat 150](https://www.stat.berkeley.edu/~bensonau/f21.150/index.html) to cover stochastic processes, which sometimes appear in interviews (but not very often). Stat 150 is definitely unnecessary as the Green Book (which I talk about below) covers everything you need to know about markov chains and martingales, but I personally enjoyed the class a lot and found it useful for my own understanding of stochastic processes.
+This one is by far the most important topic to understand. A lot of trading interviews won't even test your programming skills and only your understanding of math and probability. Thus it is **paramount** to understand probability inside and out. Make sure you take at least one upper-division probability course in college if possible. I would recommend [Data 140](http://prob140.org/) or [EECS 126](https://inst.eecs.berkeley.edu/~ee126/sp22/) for this. EECS 126 covers more content, but Data 140 goes more in-depth into relevant interview topics and tends to ask questions that are more similar to what you'd see in a trading interview, so I'd heavily recommend it over EECS 126. If you end up taking Data 140, I'd personally recommend [Stat 150](https://www.stat.berkeley.edu/~bensonau/f21.150/index.html) to cover stochastic processes, which sometimes appear in interviews (but not very often). Stat 150 is definitely unnecessary as the Green Book (which I talk about in the "Books" section) covers everything you need to know about markov chains and martingales, but I personally enjoyed the class a lot and found it useful for my own understanding of the subject.
 
 - Programming and Algorithms
 
-Make sure to have [CS 170](https://cs170.org/) level knowledge of programming and algorithms. This typically requires [CS 61A](https://cs61a.org/), [CS 61B](https://inst.eecs.berkeley.edu/~cs61b/sp22/), [CS 70](https://www.eecs70.org/), and of course CS 170. Python tends to be the preferred language for quantitative finance.
+Programming is not usually tested for Quant Trading roles but is commonly needed for Quantitative Researcher interviews. In particular, more QR-heavy firms will almost always test for programming skills through a combination of online assessments and Leetcode-style interviews. This includes firms like HRT, Headlands, and Jump Trading. The best way to practice this is to stay sharp on Leetcoding skills. I find the [Grind 75](https://www.techinterviewhandbook.org/grind75) to be a solid starting point and benchmark of Leetcode ability. In terms of classes, make sure to have [CS 170](https://cs170.org/) level knowledge of programming and algorithms. For Berkeley students, this typically requires [CS 61A](https://cs61a.org/), [CS 61B](https://inst.eecs.berkeley.edu/~cs61b/sp22/), and [CS 70](https://www.eecs70.org/) as prerequisites. Python tends to be the preferred language for quantitative finance, but most firms allow you to choose between Python and C++ for programming interviews and challenges.
 
 - Linear Algebra and Calculus
 
-Not super important, but if you have time, make sure to brush up on basic Linear Algebra and Calculus. Make sure to have some sort of understanding of the math taught in classes like Math 53 and Math 54, focusing more on Linear Algebra rather than Calculus. If you did Multivariable Calculus and/or Linear Algebra in high school, that should be enough as well.
+Not super important for most Quant Trading interviews, but if you have time, make sure to brush up on basic Linear Algebra and Calculus. The section of the Green Book focused on these topics is a solid way to check your knowledge of these topics, but keep preparation here as a lower priority compared to probability, statistics, mental math, and programming. For Berkeley students, make sure to have some sort of understanding of the math taught in classes like Math 53 and Math 54, focusing more on Linear Algebra rather than Calculus. If you did Multivariable Calculus and/or Linear Algebra in high school, that should be enough as well.
 
 - Statistics (Quantitative Research Roles)
 
-While an understanding of various testing methods and a general knowledge of statistics are useful for anybody in this field, these topics are usually only brought up in Quantitative Research interviews. Stat 135 is the most helpful for an intro to statistics, and is a fairly easy class.
+While an understanding of various testing methods and a general knowledge of statistics are useful for anybody in this field, these topics are usually only brought up in Quantitative Research interviews. Relevant topics include a deep understanding of confidence intervals, hypothesis testing, and normal distribution rules/manipulation. For example, you should be able to design a test which determines whether or not a specific result is statistically significant given a situation (a vague enough statement which can easily be applied to the job as well). Stat 135 is the most helpful for an intro to statistics, and is a fairly easy class. If you're interested at all in Quantitative Research, this class is a must take.
 
 - Machine Learning and Data Science (Quantitative Research Roles)
 
-This is more so for Quantitative Research roles, but knowing linear regression inside and out is paramount for interviews. Good classes for this are Data 100 for basic numpy/pandas, Stat 151A or Econ 142 for linear modeling, and [CS 189](https://people.eecs.berkeley.edu/~jrs/189/) for general understanding of prediction techniques. None of these classes cover linear regression in-depth enough, however, so you'll need to engage in independent study as well.
+This is more so for Quantitative Research roles, but knowing linear regression inside and out is paramount for interviews. Make sure you understand the strengths/weaknesses of linear regression, it's assumptions, and how to adopt your model if the assumptions aren't met. It's also a good idea to know these facts for other major models, such as Random Forests. Good classes for this are [Data 100](https://ds100.org/) for basic data science (numpy/pandas) skills in python, Stat 151A or Econ 142 for linear modeling, and [CS 189](https://people.eecs.berkeley.edu/~jrs/189/) for general understanding of machine learning. None of these classes cover linear regression in-depth enough, however, so you'll need to engage in independent study as well.
 
-For data science, you will most likely be asked about the data science process and techniques. For example, they will ask you to predict something, and you'll have to determine what data you need, how to collect it, how to process it, and finally how to use it to predict what you need to find. As far as I'm aware no class covers this explicitly and is more so built with real experience working with data and machine learning.
+For data science, you can expect two potential interview types. The first is a sort of system design question. In this, you will be asked to predict something, and you'll have to determine what data you need, how to collect it, how to process it, and finally how to use it to predict what you need to find. The second type will directly asses your knowledge of the data science process and techniques. This will most likely entail giving you a dataset and letting you work on predicting a dependent variable. I would recommend going through the standard data science process of exploratory data analysis, feature engineering, modeling, and repeat. When modeling, remember to check your assumptions and correct model deficiencies, as I stated above. Another helpful rule of thumb would be to run a naive model using all of your independent variables to get a baseline set of metrics such as mean squared error and R^2 before starting to do analysis. As far as I'm aware no class covers this explicitly and is more so built with real experience working with data and machine learning.
 
 #### Books
 
@@ -102,7 +104,6 @@ If you receive an offer, make sure to let everybody you're interviewing with kno
 
 #### Smaller firms that also take undergraduates
 
-- Alameda Research
 - Aquatic Capital
 - Chicago Trading Company
 - Cutler Group
@@ -114,6 +115,8 @@ If you receive an offer, make sure to let everybody you're interviewing with kno
 - Virtu Financial
 - Wolverine Trading
 - XR Trading
+- Headlands Technologies
+- TransMarket Group
 
 #### Other (Firms that are very difficult to get into, smaller firms, etc...)
 
@@ -141,12 +144,9 @@ If you receive an offer, make sure to let everybody you're interviewing with kno
 - Geneva Trading
 - Gingko LLC
 - GTS
-- HAP
 - HAP Capital
 - Hard Eight Trading
-- HC Tech
 - HC Technologies
-- Headlands Technologies
 - Istra
 - Liquid Capital Group
 - Mako Trading
@@ -167,7 +167,6 @@ If you receive an offer, make sure to let everybody you're interviewing with kno
 - TGS
 - Tibra
 - Tradebot Systems
-- TransMarket Group
 - Tsuru Capital
 - Velar Technologies
 - VivCourt Trading
