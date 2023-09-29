@@ -112,9 +112,50 @@ If you've elected to skip the course for whatever reason, you can find the full 
 
 ## Getting More Advanced
 
-[Coming Soon]
+Now that you've mastered HTML, CSS, and JavaScript, you (in theory) are ready to build anything you could ever dream of. Doing so might be difficult for certain tasks and projects, however, hence the existence of packages, frameworks, and components. Knowing these might (again, in theory), be unnecessary, but they'll make large-scale projects multiple orders of magnitude more approachable, and honestly make the process of creating these platforms much more enjoyable.
+
+## NPM
+
+The heart of advanced development tools is NPM, which stands for Node Package Manager. Don't worry about what Node is for now - just focus on installing it properly. If you're on a Mac, I heavily recommend using [Homebrew](https://brew.sh/) to manage your packages. Follow the instructions on the [Homebrew Website](https://brew.sh/) to install homebrew. Afterward, you can install any package by simply running `brew install <package_name>` in your command line. To this end, run the following:
+
+- `brew install npm`
+- `brew install npx`
+- `brew install react`
+- `brew install node`
 
 ## Introducing React
+
+We're going to start by Introducing React.js. As promised, React is a JavaScript framework created by Meta and focuses on making front-end engineering much easier. React uses the model of state and components to operate. Don't worry if you don't know what that means - that's why you'd take a look at another course by Frontend Masters, [Complete Intro to React, v8](https://frontendmasters.com/courses/complete-react-v8/). Don't worry if the course is a bit confusing - React has a very steep learning curve, but after a few projects you'll get the hang of it and become an expert in no time.
+
+Before you start on projects, I quickly want to introduce the concept of `boilerplate`. Boilerplate simply means starter code that works well for a variety of applications. React has a boilerplate program called **Create React App** (CRA for short) that's used very commonly. Run the following command in your terminal to create a boilerplate react project titled my-app. `npx i create-react-app my-app`. More generally, you can run `npx i create-react-app <project-name>` to create a project with the name you want.
+
+Running this command will create a folder with your project title as the name. In this folder, which is called the root directory, there will be several subfolders. The most important one is `src`, as this will hold most of your code. If you want to change the meta aspects of your website (website title, favicon, etc...), that stuff is in the `public` folder. `package.json` is the last important file, as it contains a list of packages that your project depends on (aptly, these are called dependencies), alongside some basic information about your project. Take a look over the files and contents of these 3 locations to gain some familiarity with where things are. You may not understand everything going on, but you will soon.
+
+Finally, run `npm start` in the root directory of your project. ALlocalhost should open up in your browser with whatever boilerplate code Create React App has given you.
+
+Now that you've set yourself up, go through the [aforementioned React Course](https://frontendmasters.com/courses/complete-react-v8/) and try to figure out what's going on each step of the way, before moving on to the below projects.
+
+### Project 3: Tic-Tac-Toe
+
+This one is a classic. Follow the tutorial on [The Official React Website](https://react.dev/learn/tutorial-tic-tac-toe) to go through and create a fully functional tic-tac-toe game from scratch, in React. Try to understand what's going on each step of the way, and then try to reproduce the entire thing from memory, without help. This might be difficult at first so it's fine to look at the tutorial as a reference, but ideally, try to go through the entire exercise until the steps and code are burned into your memory.
+
+### Project 4: Static Website, Again
+
+We said that React was a frontend framework, right? Go back to the static site you made for your first project (or make a new one, even better!) and recreate (or create) it in React. This time, try to create a website with multiple pages (this demonstrates the utility of React much better than a single-page website). Try to use components - Make a component for Buttons, a component for the navbar, a component for titles, etc... Try to turn any major part of your website into a component.
+
+What's the utility of this? Let's say you want to change the navbar of your website. In a pure HTML/CSS/Javascript regime, you would have to go through the HTML file for every page and adjust the navbar. Using React, you can make one change to the singular Navbar component file, and voila! It changes everywhere. The same thing applies to styling - if you want to change the color scheme, button style, or header style, all it takes is a change to one file instead of many.
+
+### Aside: File Structure
+
+When you create a react project, you might run into the issue of all your components, themes, pages, and logic files becoming a big mess. A common paradigm is to have the following folders inside of your `src` directory:
+
+- `components`: Keep your components here. Make sure to label them appropriately, such as `Button.js`, `Navbar.js`, etc. Component names are typically capitalized.
+- `pages`: this is where you keep your higher level pages (`About.js`, `Team.js`). Page names are also typically capitalized. As a general rule of thumb, try to keep your page files simple, and move as much JSX code as possible into components.
+- `theme`: If you're using a component library or global themes, having a separate folder for these is typically a good idea.
+- `assets`: for storing pictures and other website assets
+- `data`: For storing any useful data such as lists, objects, etc. that are used in your website and lend themselves to repetitive iteration or commonly done changes.
+
+### Project 5: Social Media Platform
 
 [Coming Soon]
 

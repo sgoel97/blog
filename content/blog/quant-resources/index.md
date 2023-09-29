@@ -23,6 +23,10 @@ Taken from Max's blog, this article gives a dense but thorough overview of how a
 
 An article by Max Dama which covers which chapters from Elements of Statistical Learning (ESL) are the most useful for a career in quantitative finance. ESL is often considered a go-to text and reference for practitioners of machine learning and statistical modeling, so I would recommend going over the textbook if you're interested in these topics. If you're also focusing on quant finance, pay particular attention to the chapters outlined by Max. You can usually find a free copy of ESL online pretty easily.
 
+- [Assumptions of Linear Regression](https://towardsdatascience.com/linear-regression-assumptions-why-is-it-important-af28438a44a1)
+
+This article does a great job of explaining the statistical intuition behind the assumptions of Linear Regression, an important interview topic for quantitative research roles and an extremely important tool on the job as well.
+
 ## Technical Resources
 
 - [Google’s Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml)
@@ -31,7 +35,19 @@ Another recommendation from Max Dama, Google’s Rules of ML guide serves as a p
 
 ## Interview and Recruiting Preperation
 
-Check out my [Article on the Quant Interview](https://blog.samarthgoel.com/quant-interview/).
+- Check out my [Article on the Quant Interview](https://blog.samarthgoel.com/quant-interview/).
+
+- [UC Berkeley's Data 140](http://prob140.org/)
+
+If you're looking for a primer on probability and regression, look no further. Berkeley's Data 140 is the best introductory course on applied probability in a data science context, with a leaning towards framing, intuition, and practice problems that strongly aligns with what one can expect during a trading or research interview. Whether you're a beginner looking to deeply learn probability or an experienced CLT enjoyer looking to brush up, the course's textbook and practice problems and perfect for you.
+
+- [Kaggle](https://www.kaggle.com/)
+
+Kaggle is your one-stop shop for practical data science. I recommend going through a couple of tutorials and giving ur own hand at some beginner competitions using classicial models such as Linear/Ridge/Lasso/Logistic Regression and Trees/Forests as a way to practice for the data science portion of trading and research interviews.
+
+- [Quantguide](https://quantguide.io/)
+
+While leaning on the easier side for interviews with top firms, Quantguide serves as a decent repository of extra practice questions. I wouldn't recommend starting here though, and instead focusing on learning the fundamentals of probability/statistics first and understanding relevant questions from [the Green Book](https://blog.samarthgoel.com/quant-interview/).
 
 ## Books
 

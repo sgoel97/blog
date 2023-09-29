@@ -15,7 +15,7 @@ Really useful primer on ethereum and the basics of blockchain technology.
 
 - https://weth.io/
 
-Good explanation for why WETH (Wrapped Eth) Exists.
+Good explanation for why WETH (Wrapped ETH) Exists.
 
 ## Solidity
 
@@ -47,7 +47,7 @@ Don't worry if you don't quite get what's going on here. The mechanisms behind U
 
 Curve was a somewhat hard one, since the whitepaper wasn't particularly as helpful as online resources in understanding the derivation of the StableSwap Invariant.
 
-**Prereqs:** Make sure you've read and understood the UniSwap whitepaper, especially the constant product AMM formula and the concept of a constant product invariant.
+**Prereqs:** Make sure you've read and understood the UniSwap V2 whitepaper, especially the constant product AMM formula and the concept of a constant product invariant.
 
 - [Curve StableSwap Whitepaper](https://curve.fi/files/stableswap-paper.pdf)
 
