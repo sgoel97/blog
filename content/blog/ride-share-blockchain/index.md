@@ -1,6 +1,6 @@
 ---
 title: Ride-Share and Blockchain Architecture: An Interesting Parallel of Supply-and-Demand
-date: "2022-11-24"
+date: "2023-11-26"
 description: Connections between engineering and economics.
 category: misc
 ---
