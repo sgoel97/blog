@@ -45,8 +45,6 @@ If you have any ideas of suggestions on places to add, feel free to email me at 
 
   - De Young Museum
 
-    <!-- **[TODO]** -->
-
   - Japanese Tea Garden
 
     Golden Gate Park's Japanese Tea Garden is one of those attractions you'd never expect to see where it is, yet once you visit, it's clear how perfectly the garden fit's into the park's aesthetic. "Garden" is somewhat of a misnomer here, with the interior more reminiscent of a quick stroll through traditional Japanese architecture and aesthetics. There's also a restaurant within the garden, so make sure to stop by and grab a quick treat :) The garden, however, has an admission fee that varies from free for residents of San Francisco to $13 for non-resident adults.
@@ -55,9 +53,6 @@ If you have any ideas of suggestions on places to add, feel free to email me at 
 - Fort Mason
 - Sutro Baths
 - Musee Mecanique Arcade
-
-<!-- A true hidden gem, this arcade is one of the only remaining coin-operated arcades in the bay area **[TODO - fact check]**. -->
-
 - Sutro Heights
 - Presidio
 - The Spark
@@ -65,8 +60,6 @@ If you have any ideas of suggestions on places to add, feel free to email me at 
 Built for both foodies and anyone looking to have a fun time getting lunch, Spark SF provides a diverse plethora of food truck options, ranging from Mexican to Filipino to robot-operated. Take a seat at the bar or play some mini golf while waiting for your ramen - the two blocks taken up by The Spark provide not only delectable food but also fun activities, making this the perfect place for a date or a group outing. After visiting, see if you can check out 826 Valencia, which I describe in more detail below.
 
 - 826 Valencia, Woodland Creature Outfitters
-
-<!-- **[TODO - write]** -->
 
 - Lands End Lookout
 
