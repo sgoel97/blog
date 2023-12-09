@@ -106,6 +106,15 @@ Lastly, for hosting, I would recommend using [GitHub Pages](https://pages.GitHub
 
 #### Project 2: JavaScript Calculator
 
+<figure align='center'>
+    <img src="/full-stack/javascript-calculator.png" alt="JavaScript Calculator" width="60%"/>
+    <figcaption align="center">
+        <p>
+            an IOS-style Vanilla JavaScript Calculator
+        </p>
+    </figcaption>
+</figure>
+
 If you already completed [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/), you should have already built a calculator app in JavaScript.
 
 If you've elected to skip the course for whatever reason, you can find the full project [here](https://btholt.github.io/complete-intro-to-web-dev-v3/lessons/putting-it-all-together/project).
@@ -125,6 +134,17 @@ The heart of advanced development tools is NPM, which stands for Node Package Ma
 
 ## Introducing React
 
+<figure align='center'>
+    <img src="/full-stack/reactjs.png" alt="React JS" width="100%"/>
+    <figcaption align="center">
+        <p>
+            <a href="https://react.dev/">
+                React.JS, a popular JavaScript Framework
+            </a>
+        </p>
+    </figcaption>
+</figure>
+
 We're going to start by Introducing React.js. As promised, React is a JavaScript framework created by Meta and focuses on making front-end engineering much easier. React uses the model of state and components to operate. Don't worry if you don't know what that means - that's why you'd take a look at another course by Frontend Masters, [Complete Intro to React, v8](https://frontendmasters.com/courses/complete-react-v8/). Don't worry if the course is a bit confusing - React has a very steep learning curve, but after a few projects you'll get the hang of it and become an expert in no time.
 
 Before you start on projects, I quickly want to introduce the concept of `boilerplate`. Boilerplate simply means starter code that works well for a variety of applications. React has a boilerplate program called **Create React App** (CRA for short) that's used very commonly. Run the following command in your terminal to create a boilerplate react project titled my-app. `npx i create-react-app my-app`. More generally, you can run `npx i create-react-app <project-name>` to create a project with the name you want.
@@ -136,6 +156,17 @@ Finally, run `npm start` in the root directory of your project. ALlocalhost shou
 Now that you've set yourself up, go through the [aforementioned React Course](https://frontendmasters.com/courses/complete-react-v8/) and try to figure out what's going on each step of the way, before moving on to the below projects.
 
 ### Project 3: Tic-Tac-Toe
+
+<figure align='center'>
+    <img src="/full-stack/tictactoe.png" alt="Tic-Tac-Toe" width="100%"/>
+    <figcaption align="center">
+        <p>
+            <a href="https://react.dev/learn/tutorial-tic-tac-toe">
+                A game of Tic-Tac-Toe, implemented in React
+            </a>
+        </p>
+    </figcaption>
+</figure>
 
 This one is a classic. Follow the tutorial on [The Official React Website](https://react.dev/learn/tutorial-tic-tac-toe) to go through and create a fully functional tic-tac-toe game from scratch, in React. Try to understand what's going on each step of the way, and then try to reproduce the entire thing from memory, without help. This might be difficult at first so it's fine to look at the tutorial as a reference, but ideally, try to go through the entire exercise until the steps and code are burned into your memory.
 
@@ -175,6 +206,17 @@ Just like frontend frameworks, there are many options for backend languages when
 
 ### Node.js
 
+<figure align='center'>
+    <img src="/full-stack/nodejs.png" alt="Node JS" width="100%"/>
+    <figcaption align="center">
+        <p>
+            <a href="https://nodejs.org/en">
+                Node.JS, a popular JavaScript framework for backend development
+            </a>
+        </p>
+    </figcaption>
+</figure>
+
 Node.js is what we'll be using for our server-side and API layers. Node.js, as the name implies, is a JavaScript framework typically used alongside React.js. To learn Node.js, I recommend taking a look at [Introduction to Node.js](https://frontendmasters.com/courses/node-js-v3/) and [Digging Into Node.js](https://frontendmasters.com/courses/digging-into-node/) on Frontend Masters. There's a lot of content here on the basics of JavaScript, which, if you feel comfortable with, you can skip to focus on the parts more relevant to learning Node.js specifically.
 
 ### Project 6: To-Do List API
@@ -186,6 +228,10 @@ Now that you've gotten a rough sense of what APIs are, follow along with [this t
 After completing this tutorial (part 1 of a 3-part series, but the other 2 parts aren't needed), make sure you understand exactly what is happening in your code, which means understanding the purpose of every line. Next, complete a couple of exercises. Go through your code, and refactor every function, ideally without referencing the tutorial. Afterwards, delete your entire codebase and rewrite it from scratch. Again, try to reference the source material as little as possible. Just like anything else, repetition is key to being able to understand how to create an API and what they do. Once you can create a fully-fledged API with minimal reference, you're good to go.
 
 ## Databases
+
+<figure align='center'>
+    <img src="/full-stack/databases.png" alt="Databases" width="100%"/>
+</figure>
 
 Up until now, we've been putting our data into a raw JavaScript file. The problem with this is that the data isn't persistent - If we close our server or it restarts, our database reverts to what was originally in the JavaScript file and forgets whatever you added to it. One workaround would be to write to this file after each call to our API, entirely overwriting the file with the updated database each time. While this may work for small personal projects and testing purposes, this isn't scalable. Thus, this is where a database comes into play.
 
@@ -199,8 +245,96 @@ Before moving forward, let's take a step back and understand what's going on wit
 
 ### Project 7: Full-Stack Social Media Platform
 
+<figure align='center'>
+    <img src="/full-stack/socialmedia.png" alt="Social Media Platforms" width="100%"/>
+</figure>
 
+For our final project, we're going to take the social media platform frontend you built out earlier and turn it into a fully built-out app with a database, a backend, middleware, and a frontend, following the MERN stack to put it all together. You should already have a frontend ready (if not, you can go back to the section covering the first part of this project to get a sense of the spec), so all that's left is creating the database, the API, and then connecting your frontend to the API.
+
+The first step will be creating a database. While most social media apps use SQL databases since most of the data from the app is pretty structured, we're going to use a MongoDB NoSQL database for ease of use, since NoSQL databases tend to be easier to use for beginners. Take some time to figure out your schema and initialize a MongoDB database to use in our app.
+
+1. Posts
+
+Posts contain a few things. If you're making an image-based social media app like Instagram, you would want your post object to contain an image field, a caption field, an author field (this should be a User object), and a comments field (most likely an array of Comment objects). If you want to make something more like Twitter, you would probably get rid of the image field. You might also want to add a likes field to capture the number of likes a post has received.
+
+An interesting extension would be taking the Post object and adding relevant metadata, such as the time posted, location posted, or anything else interesting you might be able to think of.
+
+2. Comments
+
+Next, we want to create a Comments object. This should be relatively similar to the Post object, containing a text field and an author field. Similarly to the Post object, you can add data such as likes, time, and location if you want an extra challenge.
+
+3. Users
+
+Finally, for our basic social media app, we need user profiles, and these can be defined in our User object. For a relatively simple app, all that a User object needs is a username, and if you want, a list of associated Post objects alongside a list of associated Comment objects. You can go above and beyond here as well, adding the option for a Profile Photo, bio, and displaying relevant posts on a user profile page.
+
+The next step, which includes actually using the database, is creating an API. For this, let's take what we learned in our To-Do List project and apply Express and Node.js to developing a framework that's compatible with both our database setup and our frontend. Our API is going to need to support a couple of actions.
+
+1. Posting
+
+We need to have a POST endpoint to post (haha, get it) in our social media app. This endpoint should probably take a User instance, and all the post metadata we might want. We probably also want to initialize an empty array of comments for a new post.
+
+2. Commenting
+
+This POST endpoint should take in a user and an associated Post instance in addition to the standard required fields for a comment. We should make sure to add this comment to the comments field of the relevant post so that we can properly display all the data we have on the frontend.
+
+3. Reading from the Database
+
+Finally, we need to actually display the posts in our database to the users on the frontend. We would want to pull all the Post instances up (this should subsequently include references to all the relevant Comment objects) and send them to the frontend in a nice, usable format.
+
+4. [Optional] Editing
+
+If you're feeling ambitious, we can add some PUT endpoints for editing posts and comments. This would also require some changes to the frontend, such as adding a functional edit button that would allow users to edit their post and resubmit it to the backend for processing and updating what already existed in the database.
+
+Once you've coded these up using Express and Node.js, make sure to test your endpoints using Postman. Try different edge cases and adjust your API to avoid actions or inputs that might break your backend.
+
+Finally, let's move on to the last phase of the project - connecting your API to the frontend. There are a couple of options to do so, but for now, we'll use [axios](https://www.npmjs.com/package/axios) as one of the fastest ways to get an API integrated into your frontend. As an exercise in reading npm package documentation (you will be doing this a lot as a full-stack developer), try to integrate the API calls into your React code by yourself. Make sure to properly use the `useState` hook to ensure eventual consistency with initial calls to your database on page loads. If you need some help, here's one example of [using axios in React](https://rapidapi.com/blog/axios-react-api-tutorial/) to call an API, and there are many more on the internet if needed as well.
+
+## Wrapping Up
+
+Good job! We've gone through a lot of content - covering the fundamentals of HTML, CSS, and JavaScript, moving onto the fraught land of frontend development with a focus on React.js, and surveying the vast options available to us for various components of the backend, including databases, servers, APIs, and more. This is a lot of content to devour, especially given the difficult and technical nature of what we've covered, so make sure to pat yourself on the back if you've made it this far. Just remember that in order to learn anything related to programming properly, practice and actually programming things yourself is paramount and irreplaceable as part of the learning process. Make sure to go back and complete any projects you've skipped, look over your earlier projects and rewrite them better than before using your learning, and make sure to use best practices to put yourself in the best position possible. You now have a complete portfolio spanning all facets of full-stack development, congrats!
 
 ## More Resources
 
-[Coming Soon]
+We've covered the fundamentals of Full-Stack development and the core frameworks for building an application, but as with any technical field, there's so much more to learn. Here are some resources I recommend looking at if you want to dive deeper into a specific area of full-stack development.
+
+### Frontend Resources
+
+The next logical step in becoming a frontend developer is to gain familiarity with more frameworks, especially those that are popular or multifaceted.
+
+#### Next.JS
+
+[Next.js](https://nextjs.org/)
+
+https://frontendmasters.com/courses/next-js-v3/
+
+#### React Native
+
+[React Native](https://reactnative.dev/)
+
+https://frontendmasters.com/courses/react-native-v2/
+
+#### Electron
+
+https://www.electronjs.org/
+
+https://frontendmasters.com/courses/electron-v3/
+
+#### Svelte
+
+[Svelte](https://svelte.dev/)
+
+https://frontendmasters.com/courses/svelte-v2/
+
+### Backend Resources
+
+### Django
+
+https://www.djangoproject.com/
+
+#### Typescript
+
+https://www.typescriptlang.org/
+
+https://frontendmasters.com/courses/typescript-v3/
+
+### UI/UX Resources
