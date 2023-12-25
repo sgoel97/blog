@@ -102,7 +102,7 @@ For the second option, try making something fun! A personal website is your pres
 
 For design inspiration, I would recommend checking out [Figma Community](https://www.figma.com/community/) You can look through the mockups that Figma users have published, and clone them to help you design your project. You can also use new generative AI tools like [midjourney](https://www.midjourney.com/) for asset generation if needed.
 
-Lastly, for hosting, I would recommend using [GitHub Pages](https://pages.GitHub.com/).
+Lastly, for hosting, I would recommend using [GitHub Pages](https://pages.GitHub.com/). GitHub has a good quickstart [guide on deploying to GitHub pages](https://docs.github.com/en/pages/quickstart). You'll need a GitHub account for this step, but it's free, so create an account if you don't already have one. In general, I recommend storing all your projects in GitHub repositories.
 
 #### Project 2: JavaScript Calculator
 
@@ -151,7 +151,7 @@ Before you start on projects, I quickly want to introduce the concept of `boiler
 
 Running this command will create a folder with your project title as the name. In this folder, which is called the root directory, there will be several subfolders. The most important one is `src`, as this will hold most of your code. If you want to change the meta aspects of your website (website title, favicon, etc...), that stuff is in the `public` folder. `package.json` is the last important file, as it contains a list of packages that your project depends on (aptly, these are called dependencies), alongside some basic information about your project. Take a look over the files and contents of these 3 locations to gain some familiarity with where things are. You may not understand everything going on, but you will soon.
 
-Finally, run `npm start` in the root directory of your project. ALlocalhost should open up in your browser with whatever boilerplate code Create React App has given you.
+Finally, run `npm start` in the root directory of your project. A localhost should open up in your browser with whatever boilerplate code Create React App has given you.
 
 Now that you've set yourself up, go through the [aforementioned React Course](https://frontendmasters.com/courses/complete-react-v8/) and try to figure out what's going on each step of the way, before moving on to the below projects.
 
@@ -188,7 +188,7 @@ When you create a react project, you might run into the issue of all your compon
 
 ### Project 5: Social Media Platform
 
-In our final React project, we're going to dive into building a full-fledged social media website, much like Instagram. You'll start by setting up a database of posts—don't worry, a simple JavaScript file with an array will do for now, since we're still honing our frontend skills! Your task is to display these posts in a scrollable interface and enable user interactions like liking and commenting on posts. We'll also spice things up with some basic profile pages.
+In our final React project, we're going to dive into building a full-fledged social media website, much like Instagram. You'll start by setting up a database of posts—don't worry, a simple JavaScript file with an array will do for now since we're still honing our frontend skills! Your task is to display these posts in a scrollable interface and enable user interactions like liking and commenting on posts. We'll also spice things up with some basic profile pages.
 
 If you're up for a bit more of a challenge, try adding features that allow users to create new posts and update their profiles. This project is a bit of a step up, bringing together essential concepts like routing (I highly recommend [React Router](https://reactrouter.com/en/main) for this) and interactivity with text inputs and stateful buttons.
 
@@ -198,7 +198,7 @@ Don't forget to apply the tips and tricks from our previous projects. Make liber
 
 Switching gears, we're going to move from focusing on frontend logic to talking about the backend of a typical application. Before we start, however, let's figure out what exactly the backend refers to.
 
-The backend of an application, often referred to as the server-side, is the part of an app that runs on a server. An app's backend is responsible for managing your app's data via a database, handling logic through the form of an API, and much more (though these two use cases are what we'll be focusing on in this post). Let's use our social media project as an example. We actually need to store all the data we use, such as posts and user data, somewhere that's not a JavaScript file - this is where a database comes in. Additionally, you need to have a way for the frontend to interact with the database to get user info or post info when you click on something on the frontend - this is where an API would come in.
+The backend of an application, often referred to as the server-side, is the part of an app that runs on a server. An app's backend is responsible for managing your app's data via a database, handling logic through the form of an API, and much more (though these two use cases are what we'll be focusing on in this post). Let's use our social media project as an example. We need to store all the data we use, such as posts and user data, somewhere that's not a JavaScript file - this is where a database comes in. Additionally, you need to have a way for the frontend to interact with the database to get user info or post info when you click on something on the frontend - this is where an API would come in.
 
 ### Common Backend Frameworks
 
@@ -223,9 +223,9 @@ Node.js is what we'll be using for our server-side and API layers. Node.js, as t
 
 A hallmark of personal projects on self-learning journeys, we're going to create an API for a to-do list. But first, what is an API? Watch [RESTful APIs in 100 Seconds](https://www.youtube.com/watch?v=-MTSQjw5DrM) and [What Is REST API?](https://www.youtube.com/watch?v=-mN3VyJuCjM&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=5) to find out. Next, go through the course [API Design in Node.js](https://frontendmasters.com/courses/api-design-nodejs-v4/) to get a sense of how APIs work in Node.
 
-Now that you've gotten a rough sense of what APIs are, follow along with [this tutorial on Building A RESTful API With Node.js And Express.js](https://medium.com/@haybams/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb) to actually build one out. In order to fully understand what you're doing, you'll need to install [Postman](https://www.postman.com/). Don't worry about what Postman is for now - it will become clear as you go through the tutorial. Through the tutorial, you'll also learn about Express.js, a framework for building APIs with Node, which is exactly what we want!
+Now that you've gotten a rough sense of what APIs are, follow along with [this tutorial on Building A RESTful API With Node.js And Express.js](https://medium.com/@haybams/build-a-restful-api-with-node-js-and-express-js-d7e59c7a3dfb) to build one out. To fully understand what you're doing, you'll need to install [Postman](https://www.postman.com/). Don't worry about what Postman is for now - it will become clear as you go through the tutorial. Through the tutorial, you'll also learn about Express.js, a framework for building APIs with Node, which is exactly what we want!
 
-After completing this tutorial (part 1 of a 3-part series, but the other 2 parts aren't needed), make sure you understand exactly what is happening in your code, which means understanding the purpose of every line. Next, complete a couple of exercises. Go through your code, and refactor every function, ideally without referencing the tutorial. Afterwards, delete your entire codebase and rewrite it from scratch. Again, try to reference the source material as little as possible. Just like anything else, repetition is key to being able to understand how to create an API and what they do. Once you can create a fully-fledged API with minimal reference, you're good to go.
+After completing this tutorial (part 1 of a 3-part series, but the other 2 parts aren't needed), make sure you understand exactly what is happening in your code, which means understanding the purpose of every line. Next, complete a couple of exercises. Go through your code, and refactor every function, ideally without referencing the tutorial. Afterward, delete your entire codebase and rewrite it from scratch. Again, try to reference the source material as little as possible. Just like anything else, repetition is key to being able to understand how to create an API and what they do. Once you can create a fully-fledged API with minimal reference, you're good to go.
 
 ## Databases
 
@@ -241,7 +241,7 @@ Typically, when creating a personal project, you would use [MySQL](https://www.m
 
 ## Going Full Stack
 
-Before moving forward, let's take a step back and understand what's going on with our terminal, our computer, and our filesystem. The resource I cannot recommend enough to do this with is the [Full Stack for Front-End Engineers](https://frontendmasters.com/courses/fullstack-v3/) course on Frontend Masters. This course does an incredible job going over essential concepts which, while often overlooked, will undoubtedly make you a better engineer.
+Before moving forward, let's take a step back and understand what's going on with our terminal, our computer, and our filesystem. The resource I cannot recommend enough to do this with is the [Full Stack for Front-End Engineers](https://frontendmasters.com/courses/fullstack-v3/) course on Frontend Masters. This course does an incredible job of going over essential concepts that, while often overlooked, will undoubtedly make you a better engineer.
 
 ### Project 7: Full-Stack Social Media Platform
 
@@ -279,11 +279,11 @@ This POST endpoint should take in a user and an associated Post instance in addi
 
 3. Reading from the Database
 
-Finally, we need to actually display the posts in our database to the users on the frontend. We would want to pull all the Post instances up (this should subsequently include references to all the relevant Comment objects) and send them to the frontend in a nice, usable format.
+Finally, we need to display the posts in our database to the users on the frontend. We would want to pull all the Post instances up (this should subsequently include references to all the relevant Comment objects) and send them to the frontend in a nice, usable format.
 
 4. [Optional] Editing
 
-If you're feeling ambitious, we can add some PUT endpoints for editing posts and comments. This would also require some changes to the frontend, such as adding a functional edit button that would allow users to edit their post and resubmit it to the backend for processing and updating what already existed in the database.
+If you're feeling ambitious, we can add some PUT endpoints for editing posts and comments. This would also require some changes to the frontend, such as adding a functional edit button that would allow users to edit their posts and resubmit them to the backend for processing and updating what already existed in the database.
 
 Once you've coded these up using Express and Node.js, make sure to test your endpoints using Postman. Try different edge cases and adjust your API to avoid actions or inputs that might break your backend.
 
@@ -303,38 +303,48 @@ The next logical step in becoming a frontend developer is to gain familiarity wi
 
 #### Next.JS
 
-[Next.js](https://nextjs.org/)
-
-https://frontendmasters.com/courses/next-js-v3/
+[Next.js](https://nextjs.org/), a React framework, is essential to learn for its server-side rendering and static site generation capabilities, which boost web performance and SEO, and its streamlined development features like automatic routing and API routes, enhancing both the user and developer experience. You can find a course on Next.js [here](https://frontendmasters.com/courses/next-js-v3/).
 
 #### React Native
 
-[React Native](https://reactnative.dev/)
-
-https://frontendmasters.com/courses/react-native-v2/
+[React Native](https://reactnative.dev/) is a powerful framework for building native mobile apps using JavaScript and React, offering cross-platform compatibility, a live reloading feature, and a vast ecosystem of libraries, making it a valuable skill for developers in the mobile app development domain. You can find a course on React Native [here](https://frontendmasters.com/courses/react-native-v2/).
 
 #### Electron
 
-https://www.electronjs.org/
-
-https://frontendmasters.com/courses/electron-v3/
+[Electron](https://www.electronjs.org/) is a framework for creating desktop applications with web technologies like JavaScript, HTML, and CSS, offering cross-platform compatibility and access to native features, making it a go-to choice for developers aiming to build and maintain versatile desktop applications with web-based skills. You can find a course on Electron [here](https://frontendmasters.com/courses/electron-v3/).
 
 #### Svelte
 
-[Svelte](https://svelte.dev/)
-
-https://frontendmasters.com/courses/svelte-v2/
+[Svelte](https://svelte.dev/) is an innovative JavaScript framework for building faster web applications with less code, featuring a unique compile-time approach to convert app components into highly optimized JavaScript, making it an appealing choice for developers prioritizing performance and ease of use. You can find a course on Svelte [here](https://frontendmasters.com/courses/svelte-v2/).
 
 ### Backend Resources
 
+If you want to dive deeper into the world of backend logic, infrastructure, and programming tooling, there are a lot more directions and a lot more choices to make than counterparts choosing to specialize in frontend development. You can learn general-purpose languages, frameworks, cloud platforms, and databases, and specialize in more abstract concepts like performance, scalability, and systems, amongst many more.
+
 ### Django
 
-https://www.djangoproject.com/
+[Django](https://www.djangoproject.com/) is a high-level Python web framework that encourages rapid development and clean, pragmatic design, offering robust features like an Object-Relational Mapping (ORM) system, a powerful admin interface, and built-in security measures, making it ideal for developers building scalable and maintainable web applications.
 
 #### Typescript
 
-https://www.typescriptlang.org/
+[Typescript](https://www.typescriptlang.org/) is a superset of JavaScript that adds static types, enhancing code quality and maintainability, and is transpiled to JavaScript, providing the benefits of strong typing and advanced tooling, making it valuable for developers aiming for robust, scalable, and error-resistant web applications. You can find a course on Typescript [here](https://frontendmasters.com/courses/typescript-v3/).
 
-https://frontendmasters.com/courses/typescript-v3/
+#### GraphQL
+
+[GraphQL](https://graphql.org/) is an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data, enabling clients to request exactly what they need and nothing more, thus optimizing data retrieval and efficiency in web applications.
+
+#### AWS
+
+[AWS](https://aws.amazon.com/) (Amazon Web Services) is a comprehensive and widely adopted cloud platform, offering over 200 fully featured services from data centers globally, including computing power, storage options, and networking capabilities, crucial for developers to build scalable, flexible, and cost-effective solutions.
 
 ### UI/UX Resources
+
+An integral part of product development is the proper treatment of UI/UX, which stands for User Interface/User eXperience. UI pertains to everything the user sees and interacts with on the frontend, and UX is all about the experience of using a frontend, where components and information are laid out, and is a much broader term as a whole. Specializing in UI/UX means focusing on design and interaction, and is more software-heavy than programming-heavy as a role.
+
+#### Figma
+
+[Figma](https://www.figma.com/) is a cloud-based design tool that facilitates interface design and prototyping with real-time collaboration, making it a popular choice among UI/UX designers, developers, and teams for creating and iterating on web and mobile app designs efficiently.
+
+#### Adobe XD
+
+[Adobe XD](https://helpx.adobe.com/xd/get-started.html) is a vector-based design tool similar to Figma but differs in its integration with Adobe Creative Cloud, offering unique features like auto-animate for micro-interactions, voice prototyping, and stronger performance with complex designs, though it lacks Figma's extensive real-time collaboration capabilities.
