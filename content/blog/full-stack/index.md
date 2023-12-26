@@ -1,11 +1,9 @@
 ---
 title: Become a Full-Stack Engineer
-date: "2022-03-27"
+date: "2023-12-26"
 description: Your go-to guide on getting started with full-stack development.
 category: software
 ---
-
-[In Progress]
 
 Learning full-stack development can feel overwhelming. With the vast amount of resources available, all claiming to be the best way to become a pro, It's easy to get stuck in indecision and end up only learning half of a subject without truly understanding how to build an app from scratch.
 
