@@ -288,35 +288,35 @@ Similarly to the first social media platform we built, I'm not going to include 
 
 The first step will be creating a database. While most social media apps use SQL databases since most of the data from the app is pretty structured, we're going to use a MongoDB NoSQL database for ease of use, since NoSQL databases tend to be easier to use for beginners. Take some time to figure out your schema and initialize a MongoDB database to use in our app.
 
-1. Posts
+**1. Posts**
 
 Posts contain a few things. If you're making an image-based social media app like Instagram, you would want your post object to contain an image field, a caption field, an author field (this should be a User object), and a comments field (most likely an array of Comment objects). If you want to make something more like Twitter, you would probably get rid of the image field. You might also want to add a likes field to capture the number of likes a post has received.
 
 An interesting extension would be taking the Post object and adding relevant metadata, such as the time posted, location posted, or anything else interesting you might be able to think of.
 
-2. Comments
+**2. Comments**
 
 Next, we want to create a Comments object. This should be relatively similar to the Post object, containing a text field and an author field. Similarly to the Post object, you can add data such as likes, time, and location if you want an extra challenge.
 
-3. Users
+**3. Users**
 
 Finally, for our basic social media app, we need user profiles, and these can be defined in our User object. For a relatively simple app, all that a User object needs is a username, and if you want, a list of associated Post objects alongside a list of associated Comment objects. You can go above and beyond here as well, adding the option for a Profile Photo, bio, and displaying relevant posts on a user profile page.
 
 The next step, which includes actually using the database, is creating an API. For this, let's take what we learned in our To-Do List project and apply Express and Node.js to developing a framework that's compatible with both our database setup and our frontend. Our API is going to need to support a couple of actions.
 
-1. Posting
+**1. Posting**
 
 We need to have a POST endpoint to post (haha, get it) in our social media app. This endpoint should probably take a User instance, and all the post metadata we might want. We probably also want to initialize an empty array of comments for a new post.
 
-2. Commenting
+**2. Commenting**
 
 This POST endpoint should take in a user and an associated Post instance in addition to the standard required fields for a comment. We should make sure to add this comment to the comments field of the relevant post so that we can properly display all the data we have on the frontend.
 
-3. Reading from the Database
+**3. Reading from the Database**
 
 Finally, we need to display the posts in our database to the users on the frontend. We would want to pull all the Post instances up (this should subsequently include references to all the relevant Comment objects) and send them to the frontend in a nice, usable format.
 
-4. [Optional] Editing
+**4. [Optional] Editing**
 
 If you're feeling ambitious, we can add some PUT endpoints for editing posts and comments. This would also require some changes to the frontend, such as adding a functional edit button that would allow users to edit their posts and resubmit them to the backend for processing and updating what already existed in the database.
 
