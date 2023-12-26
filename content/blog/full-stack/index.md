@@ -76,7 +76,7 @@ Given that most of web and frontend development boils down to HTML, CSS, and Jav
 ### Step Two: Understanding the Internet
 
 <figure>
-    <img src="/full-stack/internet.png" alt="How The Internet Works" width="100%" style="border: 1px solid black"/>
+    <img src="https://blog.samarthgoel.com/full-stack/internet.png" alt="How The Internet Works" width="100%" style="border: 1px solid black"/>
     <figcaption align="center">
         <p>
             <a href="https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7">
@@ -95,7 +95,7 @@ Now that we've gotten a solid understanding of how to build a website, let's tur
 ### Stopping Point: Your First Project(s)
 
 <figure>
-    <img src="/full-stack/feb.png" alt="Formula Electric at Berkeley" width="100%"/>
+    <img src="https://blog.samarthgoel.com/full-stack/feb.png" alt="Formula Electric at Berkeley" width="100%"/>
     <figcaption align="center">
         <p>
             <a href="https://ev.berkeley.edu/">
@@ -124,7 +124,7 @@ Lastly, for hosting, I would recommend using [GitHub Pages](https://pages.GitHub
 #### Project 2: JavaScript Calculator
 
 <figure align='center'>
-    <img src="/full-stack/javascript-calculator.png" alt="JavaScript Calculator" width="60%"/>
+    <img src="https://blog.samarthgoel.com/full-stack/javascript-calculator.png" alt="JavaScript Calculator" width="60%"/>
     <figcaption align="center">
         <p>
             an IOS-style Vanilla JavaScript Calculator
@@ -152,7 +152,7 @@ The heart of advanced development tools is NPM, which stands for Node Package Ma
 ## Introducing React
 
 <figure align='center'>
-    <img src="/full-stack/reactjs.png" alt="React JS" width="100%"/>
+    <img src="https://blog.samarthgoel.com/full-stack/reactjs.png" alt="React JS" width="100%"/>
     <figcaption align="center">
         <p>
             <a href="https://react.dev/">
@@ -182,7 +182,7 @@ Now that you've set yourself up, go through the [aforementioned React Course](ht
 ### Project 3: Tic-Tac-Toe
 
 <figure align='center'>
-    <img src="/full-stack/tictactoe.png" alt="Tic-Tac-Toe" width="100%"/>
+    <img src="https://blog.samarthgoel.com/full-stack/tictactoe.png" alt="Tic-Tac-Toe" width="100%"/>
     <figcaption align="center">
         <p>
             <a href="https://react.dev/learn/tutorial-tic-tac-toe">
@@ -233,7 +233,7 @@ Just like frontend frameworks, there are many options for backend languages when
 ### Node.js
 
 <figure align='center'>
-    <img src="/full-stack/nodejs.png" alt="Node JS" width="100%"/>
+    <img src="https://blog.samarthgoel.com/full-stack/nodejs.png" alt="Node JS" width="100%"/>
     <figcaption align="center">
         <p>
             <a href="https://nodejs.org/en">
@@ -261,7 +261,7 @@ After completing this tutorial (part 1 of a 3-part series, but the other 2 parts
 ## Databases
 
 <figure align='center'>
-    <img src="/full-stack/databases.png" alt="Databases" width="100%"/>
+    <img src="https://blog.samarthgoel.com/full-stack/databases.png" alt="Databases" width="100%"/>
 </figure>
 
 Up until now, we've been putting our data into a raw JavaScript file. The problem with this is that the data isn't persistent - If we close our server or it restarts, our database reverts to what was originally in the JavaScript file and forgets whatever you added to it. One workaround would be to write to this file after each call to our API, entirely overwriting the file with the updated database each time. While this may work for small personal projects and testing purposes, this isn't scalable. Thus, this is where a database comes into play.
@@ -281,7 +281,7 @@ Before moving forward, let's take a step back and understand what's going on wit
 ### Project 7: Full-Stack Social Media Platform
 
 <figure align='center'>
-    <img src="/full-stack/socialmedia.png" alt="Social Media Platforms" width="100%"/>
+    <img src="https://blog.samarthgoel.com/full-stack/socialmedia.png" alt="Social Media Platforms" width="100%"/>
 </figure>
 
 For our final project, we're going to take the social media platform frontend you built out earlier and turn it into a fully built-out app with a database, a backend, middleware, and a frontend, following the MERN stack to put it all together. You should already have a frontend ready (if not, you can go back to the section covering the first part of this project to get a sense of the spec), so all that's left is creating the database, the API, and then connecting your frontend to the API.
