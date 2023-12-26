@@ -1,6 +1,6 @@
 ---
 title: Samarth's Guide to San Francisco
-date: "2022-11-24"
+date: "2022-12-02"
 description: My recommendations on how to make the most of a visit to SF.
 category: travel
 ---

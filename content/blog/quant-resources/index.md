@@ -1,6 +1,6 @@
 ---
 title: Quantitative Finance Resources
-date: "2022-03-26"
+date: "2022-03-29"
 description: Useful resources for current and aspiring practitioners of quantitative finance.
 category: quant
 ---
