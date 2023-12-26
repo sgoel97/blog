@@ -9,7 +9,11 @@ category: software
 
 Learning full-stack development can feel overwhelming. With the vast amount of resources available, all claiming to be the best way to become a pro, It's easy to get stuck in indecision and end up only learning half of a subject without truly understanding how to build an app from scratch.
 
-To solve this problem, I've created a roadmap that helps you cut through the noise and focus on the fundamentals necessary to start building your own amazing websites, platforms, and apps. Having taught full-stack development to over 500 students at all levels and with experience building projects used by hundreds of thousands of people, I can confidently say that these courses, along with your own practice, will turn you into a strong engineer.
+To solve this problem, I've created a roadmap that helps you cut through the noise and focus on the fundamentals necessary to start building your own amazing websites, platforms, and apps. Having taught full-stack development to over 500 students at all levels and with experience building projects used by hundreds of thousands of people, I can confidently say that these courses, along with your own practice, will turn you into a strong engineer. You can find all the materials, including a full set of readings, homework, and projects, for the official UC Berkeley full-stack development course I created at [fullstackdecal.com](https://fullstackdecal.com/). I'll also link the relevant readings from this course at every section in this post to provide further resources to understand the technical concepts and frameworks we cover.
+
+If you're at the start of your programming journey, I highly recommend you read through [the introductory reading for the Full Stack DeCal](https://fullstackdecal.com/docs/Lessons/Lesson1). It covers the 10,000-foot view of the journey, along with helpful tips for first-time programmers, motivation, and more. Development is an activity with high highs and low lows, and being aware of that, along with knowing the resources to tackle these swings, is invaluable.
+
+This guide is meant to be friendly to those with little to no programming experience, but is still suited for developers looking to learn new fundamental skills in frontend/backend development.
 
 In this guide, we'll cover courses that teach you the following skills.
 
@@ -19,7 +23,7 @@ In this guide, we'll cover courses that teach you the following skills.
 
 **DevOps:** Amazon Web Services, Git
 
-Additionally, I'll reference additional courses and resources that cover the following.
+Additionally, I'll reference additional courses and resources that cover the following at the end of the post.
 
 **Frontend Development:** React Native, Typescript, Electron, Gatsby, Webpack
 
@@ -48,7 +52,7 @@ In frontend development, everything compiles down to these three things: HTML, C
 ### Our First Stop: Complete Intro to Web Development
 
 <figure>
-    <img src="/full-stack/intro-to-web-dev.png" alt="Complete Intro to Web Development, v3" width="100%"/>
+    <img src="https://blog.samarthgoel.com/full-stack/intro-to-web-dev.png" alt="Complete Intro to Web Development, v3" width="100%"/>
     <figcaption align="center">
         <p>
             <a href="https://frontendmasters.com/courses/web-development-v3/">
@@ -59,6 +63,15 @@ In frontend development, everything compiles down to these three things: HTML, C
 </figure>
 
 Given that most of web and frontend development boils down to HTML, CSS, and JavaScript, this is where we're going to get started. [Complete Intro to Web Development, v3](https://frontendmasters.com/courses/web-development-v3/) is the best course for frontend beginners, covering these three core topics from a fundamental perspective, and is comprehensive enough even for those who've never coded before to follow along with. This course is a must for anyone who wouldn't consider themselves as having an **at least** intermediate knowledge of HTML/CSS/JS, as it's easy to "know" these tools without actually being able to use them effectively.
+
+> Relevant Full-Stack DeCal Readings:
+
+- [HTML](https://fullstackdecal.com/docs/Lessons/Lesson2)
+- [Introduction to CSS](https://fullstackdecal.com/docs/Lessons/Lesson3)
+- [Advanced CSS](https://fullstackdecal.com/docs/Lessons/Lesson4)
+- [JavaScript 1: Basic JavaScript](https://fullstackdecal.com/docs/Lessons/Lesson5)
+- [JavaScript 1: DOM](https://fullstackdecal.com/docs/Lessons/Lesson6)
+- [JavaScript 1: Scope and Asynchronous JS](https://fullstackdecal.com/docs/Lessons/Lesson7)
 
 ### Step Two: Understanding the Internet
 
@@ -74,6 +87,10 @@ Given that most of web and frontend development boils down to HTML, CSS, and Jav
 </figure>
 
 Now that we've gotten a solid understanding of how to build a website, let's turn our attention to how information, including our HTML, CSS, and JavaScript files, actually gets sent and used over the internet. This short playlist by [code.org](https://code.org/) does a great job of explaining the fundamental concepts in networking through understandable analogies and without getting too technical. While it may be unclear how networking concepts relate to full-stack development, I believe that an understanding of the internet helps deepen one's ability to use and reason about other full-stack topics that we'll touch upon later, such as servers and databases.
+
+> Relevant Full-Stack DeCal Readings:
+
+- [Devops and Cloud](https://fullstackdecal.com/docs/Lessons/Lesson17)
 
 ### Stopping Point: Your First Project(s)
 
@@ -100,7 +117,7 @@ An example of the former is the [Formula Electric at Berkeley Website](https://e
 
 For the second option, try making something fun! A personal website is your presence on the web, so try to add your personality to it! In general, you want to have a front page, an about section, a page for your projects, and then any other sections/content you may want, such as a blog or a photography showcase. The sky is the limit, be creative!
 
-For design inspiration, I would recommend checking out [Figma Community](https://www.figma.com/community/) You can look through the mockups that Figma users have published, and clone them to help you design your project. You can also use new generative AI tools like [midjourney](https://www.midjourney.com/) for asset generation if needed.
+For design inspiration, I would recommend checking out [Figma Community](https://www.figma.com/community/) You can look through the mockups that Figma users have published, and clone them to help you design your project. You can also use new generative AI tools like [midjourney](https://www.midjourney.com/) for asset generation if needed. If you get stuck, I would recommend using one of the templates on Figma and repurposing it for your own use.
 
 Lastly, for hosting, I would recommend using [GitHub Pages](https://pages.GitHub.com/). GitHub has a good quickstart [guide on deploying to GitHub pages](https://docs.github.com/en/pages/quickstart). You'll need a GitHub account for this step, but it's free, so create an account if you don't already have one. In general, I recommend storing all your projects in GitHub repositories.
 
@@ -155,6 +172,13 @@ Finally, run `npm start` in the root directory of your project. A localhost shou
 
 Now that you've set yourself up, go through the [aforementioned React Course](https://frontendmasters.com/courses/complete-react-v8/) and try to figure out what's going on each step of the way, before moving on to the below projects.
 
+> Relevant Full-Stack DeCal Readings:
+
+- [React 1: Intro to React, Props, and State](https://fullstackdecal.com/docs/Lessons/Lesson9)
+- [React 1: Example](https://fullstackdecal.com/docs/Lessons/Lesson9-2)
+- [React 2: More Hooks, Axios, and Routing](https://fullstackdecal.com/docs/Lessons/Lesson10)
+- [React 3: Styling and Libraries/Global State/Deployment](https://fullstackdecal.com/docs/Lessons/Lesson11)
+
 ### Project 3: Tic-Tac-Toe
 
 <figure align='center'>
@@ -168,7 +192,7 @@ Now that you've set yourself up, go through the [aforementioned React Course](ht
     </figcaption>
 </figure>
 
-This one is a classic. Follow the tutorial on [The Official React Website](https://react.dev/learn/tutorial-tic-tac-toe) to go through and create a fully functional tic-tac-toe game from scratch, in React. Try to understand what's going on each step of the way, and then try to reproduce the entire thing from memory, without help. This might be difficult at first so it's fine to look at the tutorial as a reference, but ideally, try to go through the entire exercise until the steps and code are burned into your memory.
+This one is a classic. Follow the tutorial on [The Official React Website](https://react.dev/learn/tutorial-tic-tac-toe) to go through and create a fully functional tic-tac-toe game from scratch, in React. Try to understand what's going on each step of the way, and then try to reproduce the entire thing from memory, without help. This might be difficult at first so it's fine to look at the tutorial as a reference, but ideally, try to go through the entire exercise until the steps and code are burned into your memory. React has a steep learning curve and the jump from vanilla JS to React is much more difficult than most people would expect, an aspect that makes rote memorization of this project an advantage when moving onto more ambiguous uses of React. This tic-tac-toe implementation covers most of the important aspects that differentiate React from vanilla JS, making it an essential first start into furthering your frontend development skills.
 
 ### Project 4: Static Website, Again
 
@@ -188,7 +212,9 @@ When you create a react project, you might run into the issue of all your compon
 
 ### Project 5: Social Media Platform
 
-In our final React project, we're going to dive into building a full-fledged social media website, much like Instagram. You'll start by setting up a database of posts—don't worry, a simple JavaScript file with an array will do for now since we're still honing our frontend skills! Your task is to display these posts in a scrollable interface and enable user interactions like liking and commenting on posts. We'll also spice things up with some basic profile pages.
+In our final React project, we're going to dive into building a full-fledged social media website, much like Instagram. You'll start by setting up a database of posts—don't worry, a simple JavaScript file with an array will do for now since we're still honing our frontend skills! Your task is to display these posts in a scrollable interface and enable user interactions like liking and commenting on posts. We'll also spice things up with some basic profile pages. Because this is supposed to be a larger project,
+
+I'm not going to link any tutorials - rather, you should try to make the design choices yourself and learn what works and what doesn't by experiencing it yourself. If you get stuck, make liberal use of Google and Stack Overflow, as they'll continue to be your best friends on the job. Searching is a skill, and the sooner you get started, the better you'll be later on. On the other hand, don't spend too much time being stuck on a problem instead of searching it up or asking for help. In general, if you're stuck on a big for over 30 minutes, it might be time to look outwards.
 
 If you're up for a bit more of a challenge, try adding features that allow users to create new posts and update their profiles. This project is a bit of a step up, bringing together essential concepts like routing (I highly recommend [React Router](https://reactrouter.com/en/main) for this) and interactivity with text inputs and stateful buttons.
 
@@ -219,6 +245,11 @@ Just like frontend frameworks, there are many options for backend languages when
 
 Node.js is what we'll be using for our server-side and API layers. Node.js, as the name implies, is a JavaScript framework typically used alongside React.js. To learn Node.js, I recommend taking a look at [Introduction to Node.js](https://frontendmasters.com/courses/node-js-v3/) and [Digging Into Node.js](https://frontendmasters.com/courses/digging-into-node/) on Frontend Masters. There's a lot of content here on the basics of JavaScript, which, if you feel comfortable with, you can skip to focus on the parts more relevant to learning Node.js specifically.
 
+> Relevant Full-Stack DeCal Readings:
+
+- [Node.js, Server-side rendering & cookies](https://fullstackdecal.com/docs/Lessons/Lesson8)
+- [APIs & Client-side rendering](https://fullstackdecal.com/docs/Lessons/Lesson11)
+
 ### Project 6: To-Do List API
 
 A hallmark of personal projects on self-learning journeys, we're going to create an API for a to-do list. But first, what is an API? Watch [RESTful APIs in 100 Seconds](https://www.youtube.com/watch?v=-MTSQjw5DrM) and [What Is REST API?](https://www.youtube.com/watch?v=-mN3VyJuCjM&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=5) to find out. Next, go through the course [API Design in Node.js](https://frontendmasters.com/courses/api-design-nodejs-v4/) to get a sense of how APIs work in Node.
@@ -239,6 +270,10 @@ A database is pretty much exactly what it sounds like - it stores your data in a
 
 Typically, when creating a personal project, you would use [MySQL](https://www.mysql.com/) if you decide to go with a SQL database or [MongoDB](https://www.mongodb.com/) if you go with a NoSQL database. Typically, a NoSQL database is well-suited for beginners due to ease of setup and convenience for smaller projects, so that's what we'll focus on. To get started, go through the course [Introduction to MongoDB](https://frontendmasters.com/courses/mongodb/) on Frontend Masters to get started with using MongoDB before moving on to our penultimate project.
 
+> Relevant Full-Stack DeCal Readings:
+
+- [Databases & Authentication](https://fullstackdecal.com/docs/Lessons/Lesson14)
+
 ## Going Full Stack
 
 Before moving forward, let's take a step back and understand what's going on with our terminal, our computer, and our filesystem. The resource I cannot recommend enough to do this with is the [Full Stack for Front-End Engineers](https://frontendmasters.com/courses/fullstack-v3/) course on Frontend Masters. This course does an incredible job of going over essential concepts that, while often overlooked, will undoubtedly make you a better engineer.
@@ -250,6 +285,8 @@ Before moving forward, let's take a step back and understand what's going on wit
 </figure>
 
 For our final project, we're going to take the social media platform frontend you built out earlier and turn it into a fully built-out app with a database, a backend, middleware, and a frontend, following the MERN stack to put it all together. You should already have a frontend ready (if not, you can go back to the section covering the first part of this project to get a sense of the spec), so all that's left is creating the database, the API, and then connecting your frontend to the API.
+
+Similarly to the first social media platform we built, I'm not going to include any tutorials or walkthroughs for this project. Building ideas without guidelines and making your own design decisions are extremely important skills for developers, and an over-reliance on tutorials or reference implementations can lead to a rude awakening on a real-world project. Remember that the internet is every developer's best friend and that learning to look for the right thing when dealing with an issue is a key skill.
 
 The first step will be creating a database. While most social media apps use SQL databases since most of the data from the app is pretty structured, we're going to use a MongoDB NoSQL database for ease of use, since NoSQL databases tend to be easier to use for beginners. Take some time to figure out your schema and initialize a MongoDB database to use in our app.
 
@@ -340,6 +377,11 @@ If you want to dive deeper into the world of backend logic, infrastructure, and 
 ### UI/UX Resources
 
 An integral part of product development is the proper treatment of UI/UX, which stands for User Interface/User eXperience. UI pertains to everything the user sees and interacts with on the frontend, and UX is all about the experience of using a frontend, where components and information are laid out, and is a much broader term as a whole. Specializing in UI/UX means focusing on design and interaction, and is more software-heavy than programming-heavy as a role.
+
+> Relevant Full-Stack DeCal Readings:
+
+- [Basic UI/UX](https://fullstackdecal.com/docs/Lessons/Lesson12)
+- [UI/UX 2: HCD Principles](https://fullstackdecal.com/docs/Lessons/Lesson13)
 
 #### Figma
 
