@@ -9,11 +9,11 @@ Below are some resources I would reccomend to those looking to learn more about 
 
 ## Ethereum
 
-- https://www.youtube.com/watch?v=jxLkbJozKbY
+- [What is Ethereum?](https://www.youtube.com/watch?v=jxLkbJozKbY)
 
 Really useful primer on ethereum and the basics of blockchain technology.
 
-- https://weth.io/
+- [Wrapped ETF (WETH)](https://weth.io/)
 
 Good explanation for why WETH (Wrapped ETH) Exists.
 
@@ -59,11 +59,11 @@ Read this to understand the design decisions behind the StableSwap invariant. Ex
 
 ## Impermenant Loss
 
-- https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2
+- [Uniswap: A Good Deal for Liquidity Providers?](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 
 This article is good for understanding the basics of the math behind impermenant loss.
 
-- https://medium.com/auditless/how-to-calculate-impermanent-loss-full-derivation-803e8b2497b7
+- [How to calculate Impermanent Loss](https://medium.com/auditless/how-to-calculate-impermanent-loss-full-derivation-803e8b2497b7)
 
 Derives the impermenant loss formula.
 
