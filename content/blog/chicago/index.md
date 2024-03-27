@@ -17,6 +17,8 @@ If you have any ideas or suggestions on additions to this guide, feel free to em
 
 Recommendations and hitlist in spreadsheet form: [Samarth's Guide to Chicago](https://docs.google.com/spreadsheets/d/1jke16brYuEZCHnmdJR5FT3dDzBRIfsVTH7B60Gb5w8s/edit#gid=0)
 
+Update: A quote of mine was recently featured in an Apartment Hunt article! [Check it out here](https://www.apartmentguide.com/blog/chicago-il-bucket-list/).
+
 ## Places to Visit
 
 ### Must See Destinations
